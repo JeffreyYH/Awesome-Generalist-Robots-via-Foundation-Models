@@ -8,11 +8,13 @@ The papers that we are surveying are listed in this file. The papers are grouped
 
 ### Perception
 
-- NLMAP, **Open-vocabulary Queryable Scene Representations for Real World Planning**, 2022, [Paper](https://arxiv.org/pdf/2209.09874.pdf)
+- NLMAP **Open-vocabulary Queryable Scene Representations for Real World Planning**, 2022, [Paper Link](https://arxiv.org/pdf/2209.09874.pdf)
 
 ### Decision Making and Planning
+- SayCan **Do As I Can, Not As I Say: Grounding Language in Robotic Affordances**, 2022, [Paper Link](https://arxiv.org/pdf/2204.01691.pdf)
 
 ### Action
+- L2R **Language to Rewards for Robotic Skill Synthesis**, 2021, [Paper Link](https://arxiv.org/pdf/2306.08647.pdf)
 
 
 ## Robotic Foundation Models
@@ -20,8 +22,10 @@ The papers that we are surveying are listed in this file. The papers are grouped
 ### Single-purpose 
 
 #### Action 
+- RT-1 **RT-1: Robotics Transformer for Real-World Control at Scale**, 2022, [Paper Link](https://arxiv.org/pdf/2212.06817.pdf)
 
 #### Decision-making and Planning 
+- GNM **GNM: A General Navigation Model to Drive Any Robot**, 2022, [Paper Link](https://arxiv.org/pdf/2210.03370.pdf)
 
 ### General-purpose
 - GATO
