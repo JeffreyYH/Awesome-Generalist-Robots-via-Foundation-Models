@@ -26,12 +26,14 @@ The papers that we are surveying are listed in this file. The papers are grouped
 - Code as Policies **Code as Policies: Language Model Programs for Embodied Control**, 2022, [paper link](https://arxiv.org/pdf/2209.07753.pdf)
 - ProgPrompt **ProgPrompt: Generating Situated Robot Task Plans using Large Language Models**, 2022, [paper link](https://arxiv.org/abs/2209.11302)
 - VIMA **VIMA: General Robot Manipulation with Multimodal Prompts**, 2022, [paper link](https://arxiv.org/pdf/2210.03094.pdf)
-- **“No, to the Right” – Online Language Corrections for Robotic Manipulation via Shared Autonomy**, 2023, [paper link](https://arxiv.org/pdf/2301.02555.pdf)
+- LILAC **“No, to the Right” – Online Language Corrections for Robotic Manipulation via Shared Autonomy**, 2023, [paper link](https://arxiv.org/pdf/2301.02555.pdf)
 <!-- - **Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents**, 2023, [paper link](https://arxiv.org/pdf/2302.01560.pdf) -->
-- Grounded Decoding **Grounded Decoding: Guiding Text Generation with Grounded Models for Robot Control**, 2023, [paper link](https://arxiv.org/pdf/2303.00855.pdf)
 - ChatGPT for Robotics **ChatGPT for Robotics: Design Principles and Model Abilities**, 2023, [paper link](https://www.microsoft.com/en-us/research/uploads/prod/2023/02/ChatGPT___Robotics.pdf)
+- Grounded Decoding **Grounded Decoding: Guiding Text Generation with Grounded Models for Robot Control**, 2023, [paper link](https://arxiv.org/pdf/2303.00855.pdf)
 - Socratic Models **Socratic Models: Composing Zero-Shot Multimodal Reasoning with Language**, 2023, [paper link](https://arxiv.org/abs/2204.00598)
 - TidyBot **TidyBot: Personalized Robot Assistance with Large Language Models**, 2023, [paper link](https://arxiv.org/pdf/2305.05658.pdf)
+- Instruct2Act **Instruct2Act: Mapping Multi-modality Instructions to Robotic Actions with Large Language Model**, 2023, [paper link](https://arxiv.org/pdf/2305.11176.pdf)
+
 
 ### Action
 - SayTap **SayTap: Language to Quadrupedal Locomotion**, 2023, [paper link](https://arxiv.org/pdf/2306.07580.pdf)
@@ -48,15 +50,18 @@ The papers that we are surveying are listed in this file. The papers are grouped
 
 #### Action 
 <!-- - **Pre-Trained Language Models for Interactive Decision-Making**, 2022, [paper link](https://arxiv.org/pdf/2202.01771.pdf) -->
-- **Can Foundation Models Perform Zero-Shot Task Specification For Robot Manipulation?**, 2022, [paper link](https://arxiv.org/pdf/2204.11134.pdf)
+- ZeST **Can Foundation Models Perform Zero-Shot Task Specification For Robot Manipulation?**, 2022, [paper link](https://arxiv.org/pdf/2204.11134.pdf)
+- ATLA **Leveraging Language for Accelerated Learning of Tool Manipulation**, 2022, [paper link](https://arxiv.org/pdf/2206.13074.pdf)
+- LATTE **LATTE: LAnguage Trajectory TransformEr**, 2022, [paper link](https://arxiv.org/pdf/2208.02918.pdf)
+- Perceiver-Actor **Perceiver-Actor: A Multi-Task Transformer for Robotic Manipulation**, 2022, [paper link](https://arxiv.org/pdf/2209.05451.pdf)
 - **Real-World Robot Learning with Masked Visual Pre-training**, 2022, [paper link](https://arxiv.org/pdf/2210.03109.pdf)
 - Interactive Language **Interactive Language: Talking to Robots in Real Time**, 2022, [paper link](https://arxiv.org/pdf/2210.06407.pdf)
 - LILA **LILA: Language-Informed Latent Actions**, 2022, [paper link](https://arxiv.org/pdf/2111.03205.pdf)
-- **Robotic Skill Acquisition via Instruction Augmentation with Vision-Language Models**, 2022, [paper link](https://arxiv.org/pdf/2211.11736.pdf)
+- DIAL **Robotic Skill Acquisition via Instruction Augmentation with Vision-Language Models**, 2022, [paper link](https://arxiv.org/pdf/2211.11736.pdf)
 - RT-1 **RT-1: Robotics Transformer for Real-World Control at Scale**, 2022, [paper link](https://arxiv.org/pdf/2212.06817.pdf)
-- **Open-World Object Manipulation using Pre-Trained Vision-Language Models**, 2023, [paper link](https://arxiv.org/pdf/2303.00905.pdf)
+- MOO **Open-World Object Manipulation using Pre-Trained Vision-Language Models**, 2023, [paper link](https://arxiv.org/pdf/2303.00905.pdf)
 - RC-1 **Where are we in the search for an Artificial Visual Cortex for Embodied Intelligence?**, 2023, [paper link](https://arxiv.org/pdf/2303.18240.pdf)
-- **Chain-of-Thought Predictive Control**, 2023, [paper link] (https://arxiv.org/pdf/2304.00776.pdf)
+- CoTPC **Chain-of-Thought Predictive Control**, 2023, [paper link] (https://arxiv.org/pdf/2304.00776.pdf)
 - Optimus **Optimus: TAMP-supervised visuomotor transformers**, 2023, [paper link](https://arxiv.org/pdf/2305.16309v1.pdf)
 - RoboCat **RoboCat: A self-improving robotic agent**, 2023, [paper link](https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/robocat-a-self-improving-robotic-agent/robocat-a-self-improving-foundation-agent-for-robotic-manipulation.pdf)
 
