@@ -16,8 +16,8 @@ The papers that we are surveying are listed in this file. The papers are grouped
 - ROSIE **Scaling Robot Learning with Semantically Imagined Experience**, 2023, [paper link](https://arxiv.org/pdf/2302.11550.pdf)
 
 ### Decision Making and Planning
-#### Task Planning
-- **Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents**, 2022 [paper link](https://arxiv.org/pdf/2201.07207.pdf)
+<!-- #### Task Planning -->
+<!-- - **Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents**, 2022 [paper link](https://arxiv.org/pdf/2201.07207.pdf) -->
 - **Reshaping Robot Trajectories Using Natural Language Commands: A Study of Multi-Modal Data Alignment Using Transformers**, 2022, [paper link](https://arxiv.org/pdf/2203.13411.pdf)
 - SayCan **Do As I Can, Not As I Say: Grounding Language in Robotic Affordances**, 2022, [paper link](https://arxiv.org/pdf/2204.01691.pdf)
 - **Correcting Robot Plans with Natural Language Feedback**, 2022, [paper link](https://arxiv.org/pdf/2204.05186.pdf)
@@ -26,7 +26,6 @@ The papers that we are surveying are listed in this file. The papers are grouped
 - Code as Policies **Code as Policies: Language Model Programs for Embodied Control**, 2022, [paper link](https://arxiv.org/pdf/2209.07753.pdf)
 - ProgPrompt **ProgPrompt: Generating Situated Robot Task Plans using Large Language Models**, 2022, [paper link](https://arxiv.org/abs/2209.11302)
 - VIMA **VIMA: General Robot Manipulation with Multimodal Prompts**, 2022, [paper link](https://arxiv.org/pdf/2210.03094.pdf)
-- **Robotic Skill Acquisition via Instruction Augmentation with Vision-Language Models**, 2022, [paper link](https://arxiv.org/pdf/2211.11736.pdf)
 - **“No, to the Right” – Online Language Corrections for Robotic Manipulation via Shared Autonomy**, 2023, [paper link](https://arxiv.org/pdf/2301.02555.pdf)
 <!-- - **Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents**, 2023, [paper link](https://arxiv.org/pdf/2302.01560.pdf) -->
 - Grounded Decoding **Grounded Decoding: Guiding Text Generation with Grounded Models for Robot Control**, 2023, [paper link](https://arxiv.org/pdf/2303.00855.pdf)
@@ -49,6 +48,7 @@ The papers that we are surveying are listed in this file. The papers are grouped
 - **Real-World Robot Learning with Masked Visual Pre-training**, 2022, [paper link](https://arxiv.org/pdf/2210.03109.pdf)
 - Interactive Language **Interactive Language: Talking to Robots in Real Time**, 2022, [paper link](https://arxiv.org/pdf/2210.06407.pdf)
 - LILA **LILA: Language-Informed Latent Actions**, 2022, [paper link](https://arxiv.org/pdf/2111.03205.pdf)
+- **Robotic Skill Acquisition via Instruction Augmentation with Vision-Language Models**, 2022, [paper link](https://arxiv.org/pdf/2211.11736.pdf)
 - RT-1 **RT-1: Robotics Transformer for Real-World Control at Scale**, 2022, [paper link](https://arxiv.org/pdf/2212.06817.pdf)
 - **Open-World Object Manipulation using Pre-Trained Vision-Language Models**, 2023, [paper link](https://arxiv.org/pdf/2303.00905.pdf)
 - RC-1 **Where are we in the search for an Artificial Visual Cortex for Embodied Intelligence?**, 2023, [paper link](https://arxiv.org/pdf/2303.18240.pdf)
