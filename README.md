@@ -53,7 +53,7 @@ The papers that we are surveying are listed in this file. The papers are grouped
 - **Open-World Object Manipulation using Pre-Trained Vision-Language Models**, 2023, [paper link](https://arxiv.org/pdf/2303.00905.pdf)
 - RC-1 **Where are we in the search for an Artificial Visual Cortex for Embodied Intelligence?**, 2023, [paper link](https://arxiv.org/pdf/2303.18240.pdf)
 - **Chain-of-Thought Predictive Control**, 2023, [paper link] (https://arxiv.org/pdf/2304.00776.pdf)
-- Optimus **Optimus: TAMP-supervised visuomotor transformers**, 2023, [paper link] (https://arxiv.org/pdf/2305.16309v1.pdf)
+- Optimus **Optimus: TAMP-supervised visuomotor transformers**, 2023, [paper link](https://arxiv.org/pdf/2305.16309v1.pdf)
 - RoboCat **RoboCat: A self-improving robotic agent**, 2023, [paper link](https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/robocat-a-self-improving-robotic-agent/robocat-a-self-improving-foundation-agent-for-robotic-manipulation.pdf)
 
 
@@ -63,5 +63,5 @@ The papers that we are surveying are listed in this file. The papers are grouped
 
 ### General-purpose
 - GATO **A Generalist Agent**, 2021, [paper link](https://arxiv.org/pdf/2205.06175.pdf)
-- PALM-E **PaLM-E: An Embodied Multimodal Language Model**, 2023, [paper link](https://arxiv.org/pdf/2303.03378.pdf
+- PALM-E **PaLM-E: An Embodied Multimodal Language Model**, 2023, [paper link](https://arxiv.org/pdf/2303.03378.pdf)
 
