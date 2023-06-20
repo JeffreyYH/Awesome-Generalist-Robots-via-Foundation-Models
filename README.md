@@ -42,6 +42,10 @@ The papers that we are surveying are listed in this file. The papers are grouped
 
 ### Single-purpose 
 
+#### Decision-making and Planning 
+- GNM **GNM: A General Navigation Model to Drive Any Robot**, 2022, [Paper Link](https://arxiv.org/pdf/2210.03370.pdf)
+- STAP **STAP: Sequencing Task-Agnostic Policies**, 2022, [paper link](https://arxiv.org/abs/2210.12250)
+
 #### Action 
 <!-- - **Pre-Trained Language Models for Interactive Decision-Making**, 2022, [paper link](https://arxiv.org/pdf/2202.01771.pdf) -->
 - **Can Foundation Models Perform Zero-Shot Task Specification For Robot Manipulation?**, 2022, [paper link](https://arxiv.org/pdf/2204.11134.pdf)
@@ -56,10 +60,6 @@ The papers that we are surveying are listed in this file. The papers are grouped
 - Optimus **Optimus: TAMP-supervised visuomotor transformers**, 2023, [paper link](https://arxiv.org/pdf/2305.16309v1.pdf)
 - RoboCat **RoboCat: A self-improving robotic agent**, 2023, [paper link](https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/robocat-a-self-improving-robotic-agent/robocat-a-self-improving-foundation-agent-for-robotic-manipulation.pdf)
 
-
-#### Decision-making and Planning 
-- GNM **GNM: A General Navigation Model to Drive Any Robot**, 2022, [Paper Link](https://arxiv.org/pdf/2210.03370.pdf)
-- STAP **STAP: Sequencing Task-Agnostic Policies**, 2022, [paper link](https://arxiv.org/abs/2210.12250)
 
 ### General-purpose
 - GATO **A Generalist Agent**, 2022, [paper link](https://arxiv.org/pdf/2205.06175.pdf)
