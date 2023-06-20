@@ -9,7 +9,7 @@ The papers that we are surveying are listed in this file. The papers are grouped
 ### Perception
 - CLIPORT **CLIPORT: What and Where Pathways for Robotic Manipulation**, 2021, [paper link](https://arxiv.org/pdf/2109.12098.pdf)
 - LM-Nav **LM-Nav: Robotic Navigation with Large Pre-Trained Models of Language, Vision, and Action**, 2022, [paper link](https://arxiv.org/pdf/2207.04429.pdf)
-- NLMap**Open-vocabulary Queryable Scene Representations for Real World Planning**, 2022, [Paper Link](https://arxiv.org/pdf/2209.09874.pdf)
+- NLMap **Open-vocabulary Queryable Scene Representations for Real World Planning**, 2022, [Paper Link](https://arxiv.org/pdf/2209.09874.pdf)
 - CLIP-Fields **CLIP-Fields: Weakly Supervised Semantic Fields for Robotic Memory**, 2022, [paper link](https://arxiv.org/abs/2210.05663)
 - VLMap **Visual Language Maps for Robot Navigation**, 2022, [paper link](https://arxiv.org/pdf/2210.05714.pdf)
 - ConceptFusion **ConceptFusion: Open-set Multimodal 3D Mapping**, 2023, [Paper Link](https://arxiv.org/pdf/2302.07241.pdf)
@@ -62,6 +62,7 @@ The papers that we are surveying are listed in this file. The papers are grouped
 - STAP **STAP: Sequencing Task-Agnostic Policies**, 2022, [paper link](https://arxiv.org/abs/2210.12250)
 
 ### General-purpose
-- GATO **A Generalist Agent**, 2021, [paper link](https://arxiv.org/pdf/2205.06175.pdf)
+- GATO **A Generalist Agent**, 2022, [paper link](https://arxiv.org/pdf/2205.06175.pdf)
+- PACT **PACT: Perception-Action Causal Transformer for Autoregressive Robotics Pre-Training**, 2022, [paper link](https://arxiv.org/pdf/2209.11133.pdf)
 - PALM-E **PaLM-E: An Embodied Multimodal Language Model**, 2023, [paper link](https://arxiv.org/pdf/2303.03378.pdf)
 
