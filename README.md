@@ -28,14 +28,15 @@ The papers that we are surveying are listed in this file. The papers are grouped
 - VIMA **VIMA: General Robot Manipulation with Multimodal Prompts**, 2022, [paper link](https://arxiv.org/pdf/2210.03094.pdf)
 - **Robotic Skill Acquisition via Instruction Augmentation with Vision-Language Models**, 2022, [paper link](https://arxiv.org/pdf/2211.11736.pdf)
 - **“No, to the Right” – Online Language Corrections for Robotic Manipulation via Shared Autonomy**, 2023, [paper link](https://arxiv.org/pdf/2301.02555.pdf)
-- **Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents**, 2023, [paper link](https://arxiv.org/pdf/2302.01560.pdf)
+<!-- - **Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents**, 2023, [paper link](https://arxiv.org/pdf/2302.01560.pdf) -->
 - Grounded Decoding **Grounded Decoding: Guiding Text Generation with Grounded Models for Robot Control**, 2023, [paper link](https://arxiv.org/pdf/2303.00855.pdf)
 - ChatGPT for Robotics **ChatGPT for Robotics: Design Principles and Model Abilities**, 2023, [paper link](https://www.microsoft.com/en-us/research/uploads/prod/2023/02/ChatGPT___Robotics.pdf)
 - Socratic Models **Socratic Models: Composing Zero-Shot Multimodal Reasoning with Language**, 2023, [paper link](https://arxiv.org/abs/2204.00598)
 - TidyBot **TidyBot: Personalized Robot Assistance with Large Language Models**, 2023, [paper link](https://arxiv.org/pdf/2305.05658.pdf)
 
 ### Action
-- L2R **Language to Rewards for Robotic Skill Synthesis**, 2021, [Paper Link](https://arxiv.org/pdf/2306.08647.pdf)
+- SayTap **SayTap: Language to Quadrupedal Locomotion**, 2023, [paper link](https://arxiv.org/pdf/2306.07580.pdf)
+- L2R **Language to Rewards for Robotic Skill Synthesis**, 2023, [Paper Link](https://arxiv.org/pdf/2306.08647.pdf)
 
 
 ## Robotic Foundation Models
@@ -43,7 +44,7 @@ The papers that we are surveying are listed in this file. The papers are grouped
 ### Single-purpose 
 
 #### Action 
-- **Pre-Trained Language Models for Interactive Decision-Making**, 2022, [paper link](https://arxiv.org/pdf/2202.01771.pdf)
+<!-- - **Pre-Trained Language Models for Interactive Decision-Making**, 2022, [paper link](https://arxiv.org/pdf/2202.01771.pdf) -->
 - **Can Foundation Models Perform Zero-Shot Task Specification For Robot Manipulation?**, 2022, [paper link](https://arxiv.org/pdf/2204.11134.pdf)
 - **Real-World Robot Learning with Masked Visual Pre-training**, 2022, [paper link](https://arxiv.org/pdf/2210.03109.pdf)
 - Interactive Language **Interactive Language: Talking to Robots in Real Time**, 2022, [paper link](https://arxiv.org/pdf/2210.06407.pdf)
@@ -53,9 +54,12 @@ The papers that we are surveying are listed in this file. The papers are grouped
 - RC-1 **Where are we in the search for an Artificial Visual Cortex for Embodied Intelligence?**, 2023, [paper link](https://arxiv.org/pdf/2303.18240.pdf)
 - **Chain-of-Thought Predictive Control**, 2023, [paper link] (https://arxiv.org/pdf/2304.00776.pdf)
 - Optimus **Optimus: TAMP-supervised visuomotor transformers**, 2023, [paper link] (https://arxiv.org/pdf/2305.16309v1.pdf)
+- RoboCat **RoboCat: A self-improving robotic agent**, 2023, [paper link](https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/robocat-a-self-improving-robotic-agent/robocat-a-self-improving-foundation-agent-for-robotic-manipulation.pdf)
+
 
 #### Decision-making and Planning 
 - GNM **GNM: A General Navigation Model to Drive Any Robot**, 2022, [Paper Link](https://arxiv.org/pdf/2210.03370.pdf)
+- STAP **STAP: Sequencing Task-Agnostic Policies**, 2022, [paper link](https://arxiv.org/abs/2210.12250)
 
 ### General-purpose
 - GATO **A Generalist Agent**, 2021, [paper link](https://arxiv.org/pdf/2205.06175.pdf)
