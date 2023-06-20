@@ -1,4 +1,8 @@
 # Paper List in the survey paper
+The papers that we are surveying are listed in this file. The papers are grouped by the following categories:
+- [Foundation models used in Robotics](#foundation-models-used-in-robotics). For these papers, the authors apply existing foundation models, such as LLM, VLM, vision FM and text-conditioned image generation models in modules of robotics, such as perception, decision making and planning, and action.
+
+- [Robotic Foundation Models](#robotic-foundation-models). For these papers, the authors propose new foundation models used in robotic applications, such as control using imilation learning and reinforcement learning. We also include genera-purpose foundation models, such as GATO, PALM-E in this category.
 
 ## Foundation models used in Robotics
 
@@ -17,4 +21,5 @@
 
 ### Robotic Holistic Foundation Models
 - GATO
+- PALM-E
 
