@@ -47,6 +47,7 @@ The papers that we are surveying are listed in this file. The papers are grouped
 #### Decision-making and Planning 
 - GNM **GNM: A General Navigation Model to Drive Any Robot**, 2022, [Paper Link](https://arxiv.org/pdf/2210.03370.pdf)
 - STAP **STAP: Sequencing Task-Agnostic Policies**, 2022, [paper link](https://arxiv.org/abs/2210.12250)
+- ViNT **ViNT: A Foundation Model for Visual Navigation**, 2023, [Paper Link](https://arxiv.org/pdf/2306.14846.pdf)
 
 #### Action 
 <!-- - **Pre-Trained Language Models for Interactive Decision-Making**, 2022, [paper link](https://arxiv.org/pdf/2202.01771.pdf) -->
