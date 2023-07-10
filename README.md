@@ -33,7 +33,8 @@ The papers that we are surveying are listed in this file. The papers are grouped
 - Socratic Models **Socratic Models: Composing Zero-Shot Multimodal Reasoning with Language**, 2023, [paper link](https://arxiv.org/abs/2204.00598)
 - TidyBot **TidyBot: Personalized Robot Assistance with Large Language Models**, 2023, [paper link](https://arxiv.org/pdf/2305.05658.pdf)
 - Instruct2Act **Instruct2Act: Mapping Multi-modality Instructions to Robotic Actions with Large Language Model**, 2023, [paper link](https://arxiv.org/pdf/2305.11176.pdf)
--VoxPoser **VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models**, 2023, [paper link](https://voxposer.github.io/voxposer.pdf)
+- VoxPoser **VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models**, 2023, [paper link](https://voxposer.github.io/voxposer.pdf)
+- KNOWNO **Robots That Ask For Help:Uncertainty Alignment for Large Language Model Planners**, 2023, [paper link](https://arxiv.org/pdf/2307.01928.pdf)
 
 
 ### Action
