@@ -4,6 +4,11 @@ The papers that we are surveying are listed in this file. The papers are grouped
 
 - [Robotic Foundation Models](#robotic-foundation-models). For these papers, the authors propose new foundation models used in one specific robotic applications, such as control using imilation learning and reinforcement learning. We also include genera-purpose foundation models, such as GATO, PALM-E in this category.
 
+The taxonomy is shown in this figure,
+<p align="center">
+<img width="600" src="./assets/taxonomy2.png"/>
+</p>
+
 ## Foundation models used in Robotics
 
 ### Perception
