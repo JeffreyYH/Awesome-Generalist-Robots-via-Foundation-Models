@@ -72,7 +72,8 @@ The taxonomy is shown in this figure,
 - CoTPC **Chain-of-Thought Predictive Control**, 2023, [paper link] (https://arxiv.org/pdf/2304.00776.pdf)
 - Optimus **Optimus: TAMP-supervised visuomotor transformers**, 2023, [paper link](https://arxiv.org/pdf/2305.16309v1.pdf)
 - RoboCat **RoboCat: A self-improving robotic agent**, 2023, [paper link](https://arxiv.org/pdf/2306.11706.pdf)
-
+- RT-2 **RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control**, 2023, [paper link](https://robotics-transformer2.github.io/assets/rt2.pdf)
+- Scaling Up and Distilling Down **Scaling Up and Distilling Down: Language-Guided Robot Skill Acquisition**, 2023, [paper link](https://arxiv.org/pdf/2307.14535.pdf)
 
 ### General-purpose
 - GATO **A Generalist Agent**, 2022, [paper link](https://arxiv.org/pdf/2205.06175.pdf)
