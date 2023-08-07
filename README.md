@@ -20,6 +20,7 @@ The taxonomy is shown in this figure,
 - ConceptFusion **ConceptFusion: Open-set Multimodal 3D Mapping**, 2023, [Paper Link](https://arxiv.org/pdf/2302.07241.pdf)
 - ROSIE **Scaling Robot Learning with Semantically Imagined Experience**, 2023, [paper link](https://arxiv.org/pdf/2302.11550.pdf)
 - AnyLoc **Towards Universal Visual Place Recognition**, 2023, [paper link](https://anyloc.github.io/assets/AnyLoc.pdf)
+- WVN **Fast Traversability Estimation for Wild Visual Navigation**, 2023, [paper link](https://arxiv.org/pdf/2305.08510.pdf)
 
 ### Decision Making and Planning
 <!-- #### Task Planning -->
