@@ -86,12 +86,12 @@ The taxonomy is shown in this figure,
 
 
 ## Related Surveys and repositories
-**Reinforcement Learning in Robotics: A Survey**, 2013, [paper link](https://www.ri.cmu.edu/pub_files/2013/7/Kober_IJRR_2013.pdf)
-**A Review of Robot Learning for Manipulation: Challenges, Representations, and Algorithms**, 2021, [paper link](https://www.jmlr.org/papers/volume22/19-804/19-804.pdf)
-**On the Opportunities and Risks of Foundation Models**, 2021, [paper link](https://arxiv.org/pdf/2303.04129.pdf)
-**Foundation Models for Decision Making: Problems, Methods, and Opportunities**, 2023, [paper link](https://arxiv.org/pdf/2301.02555.pdf)
-**Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond**, 2023, [paper link](https://arxiv.org/pdf/2304.13712.pdf)
-**Challenges and Applications of Large Language Models**, 2023, [paper link](https://arxiv.org/pdf/2307.10169.pdf)
-**Awesome-LLM-Robotics** [repo link](https://github.com/GT-RIPL/Awesome-LLM-Robotics)
+- **Reinforcement Learning in Robotics: A Survey**, 2013, [paper link](https://www.ri.cmu.edu/pub_files/2013/7/Kober_IJRR_2013.pdf)
+- **A Review of Robot Learning for Manipulation: Challenges, Representations, and Algorithms**, 2021, [paper link](https://www.jmlr.org/papers/volume22/19-804/19-804.pdf)
+- **On the Opportunities and Risks of Foundation Models**, 2021, [paper link](https://arxiv.org/pdf/2303.04129.pdf)
+- **Foundation Models for Decision Making: Problems, Methods, and Opportunities**, 2023, [paper link](https://arxiv.org/pdf/2301.02555.pdf)
+- **Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond**, 2023, [paper link](https://arxiv.org/pdf/2304.13712.pdf)
+- **Challenges and Applications of Large Language Models**, 2023, [paper link](https://arxiv.org/pdf/2307.10169.pdf)
+- **Awesome-LLM-Robotics** [repo link](https://github.com/GT-RIPL/Awesome-LLM-Robotics)
 
 
