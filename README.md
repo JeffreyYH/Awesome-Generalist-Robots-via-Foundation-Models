@@ -6,7 +6,7 @@ The papers that we are surveying are listed in this file. The papers are grouped
 
 The taxonomy is shown in this figure,
 <p align="center">
-<img width="600" src="./assets/taxonomy2.png"/>
+<img width="600" src="./assets/taxonomy3.png"/>
 </p>
 
 ## Foundation models used in Robotics
@@ -21,6 +21,8 @@ The taxonomy is shown in this figure,
 - ROSIE **Scaling Robot Learning with Semantically Imagined Experience**, 2023, [paper link](https://arxiv.org/pdf/2302.11550.pdf)
 - AnyLoc **Towards Universal Visual Place Recognition**, 2023, [paper link](https://anyloc.github.io/assets/AnyLoc.pdf)
 - WVN **Fast Traversability Estimation for Wild Visual Navigation**, 2023, [paper link](https://arxiv.org/pdf/2305.08510.pdf)
+- F3RM **Distilled Feature Fields Enable Few-Shot Language-Guided Manipulation**, 2023, [paper link](https://arxiv.org/pdf/2308.07931.pdf)
+
 
 ### Decision Making and Planning
 <!-- #### Task Planning -->
@@ -51,7 +53,7 @@ The taxonomy is shown in this figure,
 
 ## Robotic Foundation Models
 
-### Single-purpose 
+### Modular
 
 #### Decision-making and Planning 
 - GNM **GNM: A General Navigation Model to Drive Any Robot**, 2022, [Paper Link](https://arxiv.org/pdf/2210.03370.pdf)
@@ -77,8 +79,19 @@ The taxonomy is shown in this figure,
 - RT-2 **RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control**, 2023, [paper link](https://robotics-transformer2.github.io/assets/rt2.pdf)
 - Scaling Up and Distilling Down **Scaling Up and Distilling Down: Language-Guided Robot Skill Acquisition**, 2023, [paper link](https://arxiv.org/pdf/2307.14535.pdf)
 
-### General-purpose
+### Unified
 - GATO **A Generalist Agent**, 2022, [paper link](https://arxiv.org/pdf/2205.06175.pdf)
 - PACT **PACT: Perception-Action Causal Transformer for Autoregressive Robotics Pre-Training**, 2022, [paper link](https://arxiv.org/pdf/2209.11133.pdf)
 - PALM-E **PaLM-E: An Embodied Multimodal Language Model**, 2023, [paper link](https://arxiv.org/pdf/2303.03378.pdf)
+
+
+## Related Surveys and repositories
+**Reinforcement Learning in Robotics: A Survey**, 2013, [paper link](https://www.ri.cmu.edu/pub_files/2013/7/Kober_IJRR_2013.pdf)
+**A Review of Robot Learning for Manipulation: Challenges, Representations, and Algorithms**, 2021, [paper link](https://www.jmlr.org/papers/volume22/19-804/19-804.pdf)
+**On the Opportunities and Risks of Foundation Models**, 2021, [paper link](https://arxiv.org/pdf/2303.04129.pdf)
+**Foundation Models for Decision Making: Problems, Methods, and Opportunities**, 2023, [paper link](https://arxiv.org/pdf/2301.02555.pdf)
+**Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond**, 2023, [paper link](https://arxiv.org/pdf/2304.13712.pdf)
+**Challenges and Applications of Large Language Models**, 2023, [paper link](https://arxiv.org/pdf/2307.10169.pdf)
+**Awesome-LLM-Robotics** [repo link](https://github.com/GT-RIPL/Awesome-LLM-Robotics)
+
 
