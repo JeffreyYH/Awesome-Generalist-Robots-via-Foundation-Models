@@ -6,7 +6,7 @@ The papers that we are surveying are listed in this file. The papers are grouped
 
 The taxonomy is shown in this figure,
 <p align="center">
-<img width="600" src="./assets/taxonomy3.png"/>
+<img width="600" src="./assets/taxonomy3.jpg"/>
 </p>
 
 ## Foundation models used in Robotics
