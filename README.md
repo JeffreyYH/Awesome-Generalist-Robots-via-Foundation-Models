@@ -92,6 +92,8 @@ The taxonomy is shown in this figure,
 - **Foundation Models for Decision Making: Problems, Methods, and Opportunities**, 2023, [paper link](https://arxiv.org/pdf/2301.02555.pdf)
 - **Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond**, 2023, [paper link](https://arxiv.org/pdf/2304.13712.pdf)
 - **Challenges and Applications of Large Language Models**, 2023, [paper link](https://arxiv.org/pdf/2307.10169.pdf)
+- **A Survey on Large Language Model based Autonomous Agents**, 2023, [paper link](https://arxiv.org/pdf/2308.11432v1.pdf)
 - **Awesome-LLM-Robotics** [repo link](https://github.com/GT-RIPL/Awesome-LLM-Robotics)
+
 
 
