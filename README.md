@@ -86,13 +86,19 @@ The taxonomy is shown in this figure,
 
 
 ## Related Surveys and repositories
+### Robotics surveys
 - **Reinforcement Learning in Robotics: A Survey**, 2013, [paper link](https://www.ri.cmu.edu/pub_files/2013/7/Kober_IJRR_2013.pdf)
 - **A Review of Robot Learning for Manipulation: Challenges, Representations, and Algorithms**, 2021, [paper link](https://www.jmlr.org/papers/volume22/19-804/19-804.pdf)
+- **How to train your robot with deep reinforcement learning: lessons we have learned**, 2021, [paper link](https://arxiv.org/pdf/2102.02915.pdf)
+
+### Foundation models surveys
 - **On the Opportunities and Risks of Foundation Models**, 2021, [paper link](https://arxiv.org/pdf/2303.04129.pdf)
 - **Foundation Models for Decision Making: Problems, Methods, and Opportunities**, 2023, [paper link](https://arxiv.org/pdf/2301.02555.pdf)
 - **Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond**, 2023, [paper link](https://arxiv.org/pdf/2304.13712.pdf)
 - **Challenges and Applications of Large Language Models**, 2023, [paper link](https://arxiv.org/pdf/2307.10169.pdf)
 - **A Survey on Large Language Model based Autonomous Agents**, 2023, [paper link](https://arxiv.org/pdf/2308.11432v1.pdf)
+
+### Foundation models and robotics
 - **Awesome-LLM-Robotics** [repo link](https://github.com/GT-RIPL/Awesome-LLM-Robotics)
 
 
