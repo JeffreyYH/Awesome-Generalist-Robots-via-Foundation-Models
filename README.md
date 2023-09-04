@@ -22,6 +22,7 @@ The taxonomy is shown in this figure,
 - AnyLoc **Towards Universal Visual Place Recognition**, 2023, [paper link](https://anyloc.github.io/assets/AnyLoc.pdf)
 - WVN **Fast Traversability Estimation for Wild Visual Navigation**, 2023, [paper link](https://arxiv.org/pdf/2305.08510.pdf)
 - F3RM **Distilled Feature Fields Enable Few-Shot Language-Guided Manipulation**, 2023, [paper link](https://arxiv.org/pdf/2308.07931.pdf)
+- GNFactor **GNFactor Multi-Task Real Robot Learning with Generalizable Neural Feature Fields**, 2023, [paper link](https://yanjieze.com/GNFactor/CoRL2023_GNFactor.pdf)
 
 
 ### Decision Making and Planning
