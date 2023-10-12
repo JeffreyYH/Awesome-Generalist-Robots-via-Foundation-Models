@@ -78,6 +78,7 @@ The taxonomy is shown in this figure,
 - Optimus **Optimus: TAMP-supervised visuomotor transformers**, 2023, [paper link](https://arxiv.org/pdf/2305.16309v1.pdf)
 - RoboCat **RoboCat: A self-improving robotic agent**, 2023, [paper link](https://arxiv.org/pdf/2306.11706.pdf)
 - RT-2 **RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control**, 2023, [paper link](https://robotics-transformer2.github.io/assets/rt2.pdf)
+- RT-X **Open X-Embodiment: Robotic Learning Datasets and RT-X Models**, 2023, [paper link](https://robotics-transformer-x.github.io/paper.pdf)
 - Scaling Up and Distilling Down **Scaling Up and Distilling Down: Language-Guided Robot Skill Acquisition**, 2023, [paper link](https://arxiv.org/pdf/2307.14535.pdf)
 
 ### Unified
