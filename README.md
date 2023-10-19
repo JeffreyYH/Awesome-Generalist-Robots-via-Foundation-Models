@@ -47,6 +47,7 @@ The taxonomy is shown in this figure,
 - KNOWNO **Robots That Ask For Help:Uncertainty Alignment for Large Language Model Planners**, 2023, [paper link](https://arxiv.org/pdf/2307.01928.pdf)
 - SayPlan **SayPlan: Grounding Large Language Models using 3D Scene Graphs for Scalable Task Planning**, 2023, [paper link](https://arxiv.org/pdf/2307.06135.pdf)
 - SuSIE: **Subgoal Synthesis via Image Editing**, 2023, [paper link](https://rail-berkeley.github.io/susie/paper.pdf)
+- VLP: **Video Language Planning**, 2023, [paper link](https://arxiv.org/pdf/2310.10625.pdf)
 
 ### Action
 - SayTap **SayTap: Language to Quadrupedal Locomotion**, 2023, [paper link](https://arxiv.org/pdf/2306.07580.pdf)
