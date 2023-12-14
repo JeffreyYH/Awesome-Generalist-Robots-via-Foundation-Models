@@ -1,15 +1,15 @@
 # Paper List in the survey paper
 The papers that we are surveying are listed in this file. The papers are grouped by the following categories:
-- [Foundation models used in Robotics](#foundation-models-used-in-robotics). For these papers, the authors apply existing foundation models, such as LLM, VLM, vision FM and text-conditioned image generation models in modules of robotics, such as perception, decision making and planning, and action.
+- [Foundation models used in Robotics](#foundation-models-used-in-robotics). For these papers, the authors apply existing vision and language foundation models, such as LLM, VLM, vision FM and text-conditioned image generation models in modules of robotics, such as perception, decision making and planning, and action.
 
 - [Robotic Foundation Models](#robotic-foundation-models). For these papers, the authors propose new foundation models used in one specific robotic applications, such as control using imilation learning and reinforcement learning. We also include genera-purpose foundation models, such as GATO, PALM-E in this category.
 
-The taxonomy is shown in this figure,
+<!-- The taxonomy is shown in this figure,
 <p align="center">
 <img width="600" src="./assets/taxonomy.png"/>
-</p>
+</p> -->
 
-We list all the papers surveyed in our paper. The dates are based on the first released date on arxiv. 
+We list all the papers surveyed in our paper. The dates are based on the first released date on arxiv. This list will be constantly updated.
 
 ## Foundation models used in Robotics
 
@@ -27,8 +27,7 @@ We list all the papers surveyed in our paper. The dates are based on the first r
 - GNFactor **GNFactor Multi-Task Real Robot Learning with Generalizable Neural Feature Fields**, 31 Aug 2023, [paper link](https://yanjieze.com/GNFactor/CoRL2023_GNFactor.pdf)
 
 
-### Decision Making and Planning
-<!-- #### Task Planning -->
+### Task Planning
 <!-- - **Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents**, 2022 [paper link](https://arxiv.org/pdf/2201.07207.pdf) -->
 - **Reshaping Robot Trajectories Using Natural Language Commands: A Study of Multi-Modal Data Alignment Using Transformers**, 25 Mar 2022, [paper link](https://arxiv.org/pdf/2203.13411.pdf)
 - Socratic Models **Socratic Models: Composing Zero-Shot Multimodal Reasoning with Language**, 1 Apr 2022, [paper link](https://arxiv.org/abs/2204.00598)
@@ -52,7 +51,7 @@ We list all the papers surveyed in our paper. The dates are based on the first r
 - RoboTool **RoboTool: Creative Robot Tool Use with Large Language Models**, 23 Oct 2023, [project link](https://creative-robotool.github.io/)
 
 
-### Action
+### Action Generation
 - SayTap **SayTap: Language to Quadrupedal Locomotion**, 13 Jun 2023, [paper link](https://arxiv.org/pdf/2306.07580.pdf)
 - L2R **Language to Rewards for Robotic Skill Synthesis**, 14 Jun 2023 , [Paper Link](https://arxiv.org/pdf/2306.08647.pdf)
 - Eureka **Eureka: Human-Level Reward Design via Coding Large Language Models**, 19 Oct 2023, [paper link](https://arxiv.org/pdf/2310.12931.pdf)
@@ -60,14 +59,8 @@ We list all the papers surveyed in our paper. The dates are based on the first r
 
 ## Robotic Foundation Models
 
-### Modular
-
-#### Decision-making and Planning 
-- GNM **GNM: A General Navigation Model to Drive Any Robot**, 7 Oct 2022 , [Paper Link](https://arxiv.org/pdf/2210.03370.pdf)
-- STAP **STAP: Sequencing Task-Agnostic Policies**, 21 Oct 2022, [paper link](https://arxiv.org/abs/2210.12250)
-- ViNT **ViNT: A Foundation Model for Visual Navigation**,  26 Jun 2023, [Paper Link](https://arxiv.org/pdf/2306.14846.pdf)
-
-#### Action 
+### Single-Purpose
+#### Action Generation
 <!-- - **Pre-Trained Language Models for Interactive Decision-Making**, 2022, [paper link](https://arxiv.org/pdf/2202.01771.pdf) -->
 - ZeST **Can Foundation Models Perform Zero-Shot Task Specification For Robot Manipulation?**, 23 Apr 2022 , [paper link](https://arxiv.org/pdf/2204.11134.pdf)
 - ATLA **Leveraging Language for Accelerated Learning of Tool Manipulation**, 27 Jun 2022, [paper link](https://arxiv.org/pdf/2206.13074.pdf)
@@ -88,9 +81,12 @@ We list all the papers surveyed in our paper. The dates are based on the first r
 - RT-X **Open X-Embodiment: Robotic Learning Datasets and RT-X Models**, 13 Oct 2023, [paper link](https://robotics-transformer-x.github.io/paper.pdf)
 - Q-Transformer **Q-Transformer: Scalable Offline Reinforcement Learning via Autoregressive Q-Functions**, 18 Sept 2023, [paper link](https://arxiv.org/pdf/2309.10150.pdf)
 - RT-Trajectory **RT-Trajectory: Robotic Task Generalization via Hindsight Trajectory Sketches**, 3 Nov 2023, [paper link](https://arxiv.org/pdf/2311.01977.pdf)
+- GNM **GNM: A General Navigation Model to Drive Any Robot**, 7 Oct 2022 , [Paper Link](https://arxiv.org/pdf/2210.03370.pdf)
+- STAP **STAP: Sequencing Task-Agnostic Policies**, 21 Oct 2022, [paper link](https://arxiv.org/abs/2210.12250)
+- ViNT **ViNT: A Foundation Model for Visual Navigation**,  26 Jun 2023, [Paper Link](https://arxiv.org/pdf/2306.14846.pdf)
 
 
-### Unified
+### General-Purpose
 - GATO **A Generalist Agent**, 12 May 2022, [paper link](https://arxiv.org/pdf/2205.06175.pdf)
 - PACT **PACT: Perception-Action Causal Transformer for Autoregressive Robotics Pre-Training**, 22 Sep 2022, [paper link](https://arxiv.org/pdf/2209.11133.pdf)
 - PALM-E **PaLM-E: An Embodied Multimodal Language Model**, 6 Mar 2023, [paper link](https://arxiv.org/pdf/2303.03378.pdf)
