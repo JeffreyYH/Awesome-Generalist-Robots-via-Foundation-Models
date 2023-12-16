@@ -9,7 +9,7 @@ The papers that we are surveying are listed in this file. The papers are grouped
 <img width="600" src="./assets/taxonomy.png"/>
 </p> -->
 
-We list all the papers surveyed in our paper. The dates are based on the first released date on arxiv. This list will be constantly updated.
+We list all the papers surveyed in our [paper](https://arxiv.org/abs/2312.08782). The dates are based on the first released date on arxiv. This list will be constantly updated.
 
 ## Foundation models used in Robotics
 
@@ -119,5 +119,16 @@ We list all the papers surveyed in our paper. The dates are based on the first r
 - **Awesome-LLM-Robotics** [repo link](https://github.com/GT-RIPL/Awesome-LLM-Robotics)
 - **Foundation Models in Robotics: Applications, Challenges, and the Future**, 2023, [paper link](https://arxiv.org/pdf/2312.07843.pdf)
 
-
+## BibTex
+If you find our survey paper helpful, please kindly consider citing us:
+```
+@misc{hu2023robofm,
+      title={Toward General-Purpose Robots via Foundation Models: A Survey and Meta-Analysis}, 
+      author={Yafei Hu and Quanting Xie and Vidhi Jain and Jonathan Francis and Jay Patrikar and Nikhil Keetha and Seungchan Kim and Yaqi Xie and Tianyi Zhang and Zhibo Zhao and Yu-Quan Chong and Chen Wang and Katia Sycara and Matthew Johnson-Roberson and Dhruv Batra and Xiaolong Wang and Sebastian Scherer and Zsolt Kira and Fei Xia and Yonatan Bisk},
+      year={2023},
+      eprint={2312.08782},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO}
+}
+```
 
