@@ -43,6 +43,7 @@ NOTE: We only include papers with experiments on real physical robotics, in high
 - ProgPrompt **ProgPrompt: Generating Situated Robot Task Plans using Large Language Models**, 22 Sep 2022, [paper link](https://arxiv.org/abs/2209.11302)
 - VIMA **VIMA: General Robot Manipulation with Multimodal Prompts**, 6 Oct 2022, [paper link](https://arxiv.org/pdf/2210.03094.pdf)
 - LILAC **“No, to the Right” – Online Language Corrections for Robotic Manipulation via Shared Autonomy**, 6 Jan 2023, [paper link](https://arxiv.org/pdf/2301.02555.pdf) <!-- - **Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents**, 2023, [paper link](https://arxiv.org/pdf/2302.01560.pdf) -->
+- SceneDiffuser **Diffusion-based Generation, Optimization, and Planning in 3D Scenes**, 15 Jan 2023, [paper link](https://arxiv.org/pdf/2301.06015.pdf)
 - ChatGPT for Robotics **ChatGPT for Robotics: Design Principles and Model Abilities**, 20 Feb 2023, [paper link](https://www.microsoft.com/en-us/research/uploads/prod/2023/02/ChatGPT___Robotics.pdf)
 - Grounded Decoding **Grounded Decoding: Guiding Text Generation with Grounded Models for Robot Control**, 1 Mar 2023 , [paper link](https://arxiv.org/pdf/2303.00855.pdf)
 - TidyBot **TidyBot: Personalized Robot Assistance with Large Language Models**, 9 May 2023, [paper link](https://arxiv.org/pdf/2305.05658.pdf)
@@ -65,6 +66,7 @@ NOTE: We only include papers with experiments on real physical robotics, in high
 ### Data Generation
 - CACTI **CACTI: A Framework for Scalable Multi-Task Multi-Scene Visual Imitation Learning**, 12 Dec 2022, [paper link](https://arxiv.org/pdf/2212.05711.pdf)
 - ROSIE **Scaling Robot Learning with Semantically Imagined Experience**, 22 Feb 2023 , [paper link](https://arxiv.org/pdf/2302.11550.pdf)
+- ARNOLD **ARNOLD: A Benchmark for Language-Grounded Task Learning With Continuous States in Realistic 3D Scenes**, 9 Apr 2023, [paper link](https://arxiv.org/pdf/2304.04321.pdf)
 - GenSim **GenSim: Generating Robotic Simulation Tasks via Large Language Models**, 2 Oct 2023, [paper link](https://arxiv.org/pdf/2310.01361.pdf)
 - RoboGen **RoboGen: Towards Unleashing Infinite Data for Automated Robot Learning via Generative Simulation**, 2 Nov 2023, [paper link](https://arxiv.org/pdf/2311.01455.pdf)
 - RT-Trajectory **RT-Trajectory: Robotic Task Generalization via Hindsight Trajectory Sketches**, 3 Nov 2023, [paper link](https://arxiv.org/pdf/2311.01977.pdf)
@@ -106,6 +108,7 @@ NOTE: We only include papers with experiments on real physical robotics, in high
 - GATO **A Generalist Agent**, 12 May 2022, [paper link](https://arxiv.org/pdf/2205.06175.pdf)
 - PACT **PACT: Perception-Action Causal Transformer for Autoregressive Robotics Pre-Training**, 22 Sep 2022, [paper link](https://arxiv.org/pdf/2209.11133.pdf)
 - PALM-E **PaLM-E: An Embodied Multimodal Language Model**, 6 Mar 2023, [paper link](https://arxiv.org/pdf/2303.03378.pdf)
+- LEO **An Embodied Generalist Agent in 3D World**, 18 Nov 2023, [paper link](https://arxiv.org/pdf/2311.12871.pdf)
 
 
 ## Related Surveys and repositories
