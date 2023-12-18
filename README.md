@@ -89,7 +89,7 @@ NOTE: We only include papers with experiments on real physical robotics, in high
 - RT-1 **RT-1: Robotics Transformer for Real-World Control at Scale**, Dec 2022, [paper link](https://arxiv.org/pdf/2212.06817.pdf)
 - MOO **Open-World Object Manipulation using Pre-Trained Vision-Language Models**, 2 Mar 2023, [paper link](https://arxiv.org/pdf/2303.00905.pdf)
 - RC-1 **Where are we in the search for an Artificial Visual Cortex for Embodied Intelligence?**, 31 Mar 2023 , [paper link](https://arxiv.org/pdf/2303.18240.pdf)
-- CoTPC **Chain-of-Thought Predictive Control**, 3 Apr 2023 , [paper link] (https://arxiv.org/pdf/2304.00776.pdf)
+- CoTPC **Chain-of-Thought Predictive Control**, 3 Apr 2023 , [paper link](https://arxiv.org/pdf/2304.00776.pdf)
 - Optimus **Imitating Task and Motion Planning with Visuomotor Transformers**, 25 May 2023, [paper link](https://arxiv.org/pdf/2305.16309v1.pdf)
 - RoboCat **RoboCat: A self-improving robotic agent**, 20 Jun 2023, [paper link](https://arxiv.org/pdf/2306.11706.pdf)
 - Scaling Up and Distilling Down **Scaling Up and Distilling Down: Language-Guided Robot Skill Acquisition**, 26 Jul 2023, [paper link](https://arxiv.org/pdf/2307.14535.pdf)
