@@ -4,12 +4,14 @@ The papers that we are surveying are listed in this file. The papers are grouped
 
 - [Robotic Foundation Models](#robotic-foundation-models). For these papers, the authors propose new foundation models used in one specific robotic applications, such as control using imilation learning and reinforcement learning. We also include genera-purpose foundation models, such as GATO, PALM-E in this category.
 
-<!-- The taxonomy is shown in this figure,
+The taxonomy is shown in this figure,
 <p align="center">
-<img width="600" src="./assets/taxonomy.png"/>
-</p> -->
+<img width="1000" src="./assets/taxonomy.png"/>
+</p>
 
-We list all the papers surveyed in our paper. The dates are based on the first released date on arxiv. This list will be constantly updated.
+We list all the papers surveyed in our [paper](https://arxiv.org/abs/2312.08782). The dates are based on the first released date on arxiv. This list will be constantly updated.
+
+NOTE: We only include papers with experiments on real physical robotics, in high-fidelity robotic simulation environments, or using real robotics datasets. 
 
 ## Foundation models used in Robotics
 
@@ -46,6 +48,7 @@ We list all the papers surveyed in our paper. The dates are based on the first r
 - TidyBot **TidyBot: Personalized Robot Assistance with Large Language Models**, 9 May 2023, [paper link](https://arxiv.org/pdf/2305.05658.pdf)
 - Instruct2Act **Instruct2Act: Mapping Multi-modality Instructions to Robotic Actions with Large Language Model**, 18 May 2023, [paper link](https://arxiv.org/pdf/2305.11176.pdf)
 - KNOWNO **Robots That Ask For Help:Uncertainty Alignment for Large Language Model Planners**, 4 Jul 2023, [paper link](https://arxiv.org/pdf/2307.01928.pdf)
+- RoCo **RoCo: Dialectic Multi-Robot Collaboration with Large Language Models**, 10 Jul 2023, [paper link](https://arxiv.org/pdf/2307.04738.pdf)
 - SayPlan **SayPlan: Grounding Large Language Models using 3D Scene Graphs for Scalable Task Planning**, 12 Jul 2023 , [paper link](https://arxiv.org/pdf/2307.06135.pdf)
 - VLP: **Video Language Planning**, 16 Oct 2023 , [paper link](https://arxiv.org/pdf/2310.10625.pdf)
 - SuSIE **SuSIE: Subgoal Synthesis via Image Editing**, 2023, [paper link](https://rail-berkeley.github.io/susie/paper.pdf)
@@ -61,6 +64,7 @@ We list all the papers surveyed in our paper. The dates are based on the first r
 - SceneDiffuser **Diffusion-based Generation, Optimization, and Planning in 3D Scenes**, 15 Jan 2023, [paper link](https://arxiv.org/pdf/2301.06015.pdf)
 
 ### Data Generation
+- CACTI **CACTI: A Framework for Scalable Multi-Task Multi-Scene Visual Imitation Learning**, 12 Dec 2022, [paper link](https://arxiv.org/pdf/2212.05711.pdf)
 - ROSIE **Scaling Robot Learning with Semantically Imagined Experience**, 22 Feb 2023 , [paper link](https://arxiv.org/pdf/2302.11550.pdf)
 - GenSim **GenSim: Generating Robotic Simulation Tasks via Large Language Models**, 2 Oct 2023, [paper link](https://arxiv.org/pdf/2310.01361.pdf)
 - RoboGen **RoboGen: Towards Unleashing Infinite Data for Automated Robot Learning via Generative Simulation**, 2 Nov 2023, [paper link](https://arxiv.org/pdf/2311.01455.pdf)
@@ -80,18 +84,20 @@ We list all the papers surveyed in our paper. The dates are based on the first r
 - MVP **Real-World Robot Learning with Masked Visual Pre-training**, 6 Oct 2022, [paper link](https://arxiv.org/pdf/2210.03109.pdf)
 - GNM **GNM: A General Navigation Model to Drive Any Robot**, 7 Oct 2022 , [Paper Link](https://arxiv.org/pdf/2210.03370.pdf)
 - Interactive Language **Interactive Language: Talking to Robots in Real Time**, 12 Oct 2022 , [paper link](https://arxiv.org/pdf/2210.06407.pdf)
+- Conditional Behavior Transformers (C-BeT)**From Play to Policy: Conditional Behavior Generation from Uncurated Robot Data**, 18 Oct 2022, [paper link](https://arxiv.org/pdf/2210.10047.pdf)
 - STAP **STAP: Sequencing Task-Agnostic Policies**, 21 Oct 2022, [paper link](https://arxiv.org/abs/2210.12250)
 - LILA **LILA: Language-Informed Latent Actions**, 31 Oct 2022, [paper link](https://arxiv.org/pdf/2111.03205.pdf)
 - DIAL **Robotic Skill Acquisition via Instruction Augmentation with Vision-Language Models**, 21 Nov 2022 , [paper link](https://arxiv.org/pdf/2211.11736.pdf)
 - RT-1 **RT-1: Robotics Transformer for Real-World Control at Scale**, Dec 2022, [paper link](https://arxiv.org/pdf/2212.06817.pdf)
 - MOO **Open-World Object Manipulation using Pre-Trained Vision-Language Models**, 2 Mar 2023, [paper link](https://arxiv.org/pdf/2303.00905.pdf)
 - RC-1 **Where are we in the search for an Artificial Visual Cortex for Embodied Intelligence?**, 31 Mar 2023 , [paper link](https://arxiv.org/pdf/2303.18240.pdf)
-- CoTPC **Chain-of-Thought Predictive Control**, 3 Apr 2023 , [paper link] (https://arxiv.org/pdf/2304.00776.pdf)
+- CoTPC **Chain-of-Thought Predictive Control**, 3 Apr 2023 , [paper link](https://arxiv.org/pdf/2304.00776.pdf)
 - Optimus **Imitating Task and Motion Planning with Visuomotor Transformers**, 25 May 2023, [paper link](https://arxiv.org/pdf/2305.16309v1.pdf)
 - RoboCat **RoboCat: A self-improving robotic agent**, 20 Jun 2023, [paper link](https://arxiv.org/pdf/2306.11706.pdf)
 - Scaling Up and Distilling Down **Scaling Up and Distilling Down: Language-Guided Robot Skill Acquisition**, 26 Jul 2023, [paper link](https://arxiv.org/pdf/2307.14535.pdf)
 - ViNT **ViNT: A Foundation Model for Visual Navigation**,  26 Jun 2023, [Paper Link](https://arxiv.org/pdf/2306.14846.pdf)
 - RT-2 **RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control**, 28 Jul 2023, [paper link](https://robotics-transformer2.github.io/assets/rt2.pdf)
+- RoboAgent **RoboAgent: Generalization and Efficiency in Robot Manipulation via Semantic Augmentations and Action Chunking**, 5 Sep 2023, [paper link](https://arxiv.org/pdf/2309.01918.pdf)   
 - RT-X **Open X-Embodiment: Robotic Learning Datasets and RT-X Models**, 13 Oct 2023, [paper link](https://robotics-transformer-x.github.io/paper.pdf)
 - Q-Transformer **Q-Transformer: Scalable Offline Reinforcement Learning via Autoregressive Q-Functions**, 18 Sept 2023, [paper link](https://arxiv.org/pdf/2309.10150.pdf)
 - **On Bringing Robots Home**, 27 Nov 2023, [paper link](https://arxiv.org/pdf/2311.16098.pdf)
@@ -121,5 +127,16 @@ We list all the papers surveyed in our paper. The dates are based on the first r
 - **Awesome-LLM-Robotics** [repo link](https://github.com/GT-RIPL/Awesome-LLM-Robotics)
 - **Foundation Models in Robotics: Applications, Challenges, and the Future**, 2023, [paper link](https://arxiv.org/pdf/2312.07843.pdf)
 
-
+## BibTex
+If you find our survey paper helpful, please kindly consider citing us:
+```
+@misc{hu2023robofm,
+      title={Toward General-Purpose Robots via Foundation Models: A Survey and Meta-Analysis}, 
+      author={Yafei Hu and Quanting Xie and Vidhi Jain and Jonathan Francis and Jay Patrikar and Nikhil Keetha and Seungchan Kim and Yaqi Xie and Tianyi Zhang and Zhibo Zhao and Yu-Quan Chong and Chen Wang and Katia Sycara and Matthew Johnson-Roberson and Dhruv Batra and Xiaolong Wang and Sebastian Scherer and Zsolt Kira and Fei Xia and Yonatan Bisk},
+      year={2023},
+      eprint={2312.08782},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO}
+}
+```
 
