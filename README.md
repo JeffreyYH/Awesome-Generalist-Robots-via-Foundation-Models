@@ -43,6 +43,7 @@ NOTE: We only include papers with experiments on real physical robotics, in high
 - ProgPrompt **ProgPrompt: Generating Situated Robot Task Plans using Large Language Models**, 22 Sep 2022, [paper link](https://arxiv.org/abs/2209.11302)
 - VIMA **VIMA: General Robot Manipulation with Multimodal Prompts**, 6 Oct 2022, [paper link](https://arxiv.org/pdf/2210.03094.pdf)
 - LILAC **“No, to the Right” – Online Language Corrections for Robotic Manipulation via Shared Autonomy**, 6 Jan 2023, [paper link](https://arxiv.org/pdf/2301.02555.pdf) <!-- - **Describe, Explain, Plan and Select: Interactive Planning with Large Language Models Enables Open-World Multi-Task Agents**, 2023, [paper link](https://arxiv.org/pdf/2302.01560.pdf) -->
+- SceneDiffuser **Diffusion-based Generation, Optimization, and Planning in 3D Scenes**, 15 Jan 2023, [paper link](https://arxiv.org/pdf/2301.06015.pdf)
 - ChatGPT for Robotics **ChatGPT for Robotics: Design Principles and Model Abilities**, 20 Feb 2023, [paper link](https://www.microsoft.com/en-us/research/uploads/prod/2023/02/ChatGPT___Robotics.pdf)
 - Grounded Decoding **Grounded Decoding: Guiding Text Generation with Grounded Models for Robot Control**, 1 Mar 2023 , [paper link](https://arxiv.org/pdf/2303.00855.pdf)
 - TidyBot **TidyBot: Personalized Robot Assistance with Large Language Models**, 9 May 2023, [paper link](https://arxiv.org/pdf/2305.05658.pdf)
@@ -53,6 +54,7 @@ NOTE: We only include papers with experiments on real physical robotics, in high
 - VLP: **Video Language Planning**, 16 Oct 2023 , [paper link](https://arxiv.org/pdf/2310.10625.pdf)
 - SuSIE **SuSIE: Subgoal Synthesis via Image Editing**, 2023, [paper link](https://rail-berkeley.github.io/susie/paper.pdf)
 - RoboTool **RoboTool: Creative Robot Tool Use with Large Language Models**, 23 Oct 2023, [project link](https://creative-robotool.github.io/)
+- AutoRT **AutoRT: Embodied Foundation Models for Large Scale Orchestration of Robotic Agents**, 05 Jan 2024, [oaoer link](https://auto-rt.github.io/static/pdf/AutoRT.pdf) 
 
 
 ### Action Generation
@@ -90,6 +92,7 @@ NOTE: We only include papers with experiments on real physical robotics, in high
 - MOO **Open-World Object Manipulation using Pre-Trained Vision-Language Models**, 2 Mar 2023, [paper link](https://arxiv.org/pdf/2303.00905.pdf)
 - RC-1 **Where are we in the search for an Artificial Visual Cortex for Embodied Intelligence?**, 31 Mar 2023 , [paper link](https://arxiv.org/pdf/2303.18240.pdf)
 - CoTPC **Chain-of-Thought Predictive Control**, 3 Apr 2023 , [paper link](https://arxiv.org/pdf/2304.00776.pdf)
+- ARNOLD **ARNOLD: A Benchmark for Language-Grounded Task Learning With Continuous States in Realistic 3D Scenes**, 9 Apr 2023, [paper link](https://arxiv.org/pdf/2304.04321.pdf)
 - Optimus **Imitating Task and Motion Planning with Visuomotor Transformers**, 25 May 2023, [paper link](https://arxiv.org/pdf/2305.16309v1.pdf)
 - RoboCat **RoboCat: A self-improving robotic agent**, 20 Jun 2023, [paper link](https://arxiv.org/pdf/2306.11706.pdf)
 - Scaling Up and Distilling Down **Scaling Up and Distilling Down: Language-Guided Robot Skill Acquisition**, 26 Jul 2023, [paper link](https://arxiv.org/pdf/2307.14535.pdf)
@@ -106,6 +109,7 @@ NOTE: We only include papers with experiments on real physical robotics, in high
 - GATO **A Generalist Agent**, 12 May 2022, [paper link](https://arxiv.org/pdf/2205.06175.pdf)
 - PACT **PACT: Perception-Action Causal Transformer for Autoregressive Robotics Pre-Training**, 22 Sep 2022, [paper link](https://arxiv.org/pdf/2209.11133.pdf)
 - PALM-E **PaLM-E: An Embodied Multimodal Language Model**, 6 Mar 2023, [paper link](https://arxiv.org/pdf/2303.03378.pdf)
+- LEO **An Embodied Generalist Agent in 3D World**, 18 Nov 2023, [paper link](https://arxiv.org/pdf/2311.12871.pdf)
 
 
 ## Related Surveys and repositories
