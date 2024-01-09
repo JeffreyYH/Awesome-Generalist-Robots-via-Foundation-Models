@@ -134,7 +134,7 @@ If you find our survey paper helpful, please kindly consider citing us:
 ```
 @misc{hu2023robofm,
       title={Toward General-Purpose Robots via Foundation Models: A Survey and Meta-Analysis}, 
-      author={Yafei Hu and Quanting Xie and Vidhi Jain and Jonathan Francis and Jay Patrikar and Nikhil Keetha and Seungchan Kim and Yaqi Xie and Tianyi Zhang and Zhibo Zhao and Yu-Quan Chong and Chen Wang and Katia Sycara and Matthew Johnson-Roberson and Dhruv Batra and Xiaolong Wang and Sebastian Scherer and Zsolt Kira and Fei Xia and Yonatan Bisk},
+      author={Yafei Hu and Quanting Xie and Vidhi Jain and Jonathan Francis and Jay Patrikar and Nikhil Keetha and Seungchan Kim and Yaqi Xie and Tianyi Zhang and Shibo Zhao and Yu-Quan Chong and Chen Wang and Katia Sycara and Matthew Johnson-Roberson and Dhruv Batra and Xiaolong Wang and Sebastian Scherer and Zsolt Kira and Fei Xia and Yonatan Bisk},
       year={2023},
       eprint={2312.08782},
       archivePrefix={arXiv},
