@@ -29,6 +29,8 @@ NOTE: We only include papers with experiments on real physical robotics, in high
 - AnyLoc **Towards Universal Visual Place Recognition**, 1 Aug 2023, [paper link](https://anyloc.github.io/assets/AnyLoc.pdf)
 - GNFactor **GNFactor Multi-Task Real Robot Learning with Generalizable Neural Feature Fields**, 31 Aug 2023, [paper link](https://yanjieze.com/GNFactor/CoRL2023_GNFactor.pdf)
 - MOSAIC **MOSAIC: Learning Unified Multi-Sensory Object Property Representations for Robot Perception**, 15 Sep 2023, [paper link](https://arxiv.org/pdf/2309.08508.pdf)
+- SpatialVLM **SpatialVLM: Endowing Vision-Language Models with Spatial Reasoning Capabilities**, 22 Jan 2024, [paper link](https://arxiv.org/pdf/2401.12168.pdf)
+- OK-Robot **OK-Robot: What Really Matters in Integrating Open-Knowledge Models for Robotics**, 22 Jan 2024, [paper link](https://arxiv.org/pdf/2401.12202.pdf)
 
 
 ### Task Planning
