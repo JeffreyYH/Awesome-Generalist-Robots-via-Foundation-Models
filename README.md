@@ -56,7 +56,8 @@ NOTE: We only include papers with experiments on real physical robotics, in high
 - VLP: **Video Language Planning**, 16 Oct 2023 , [paper link](https://arxiv.org/pdf/2310.10625.pdf)
 - SuSIE **SuSIE: Subgoal Synthesis via Image Editing**, 2023, [paper link](https://rail-berkeley.github.io/susie/paper.pdf)
 - RoboTool **RoboTool: Creative Robot Tool Use with Large Language Models**, 23 Oct 2023, [project link](https://creative-robotool.github.io/)
-- AutoRT **AutoRT: Embodied Foundation Models for Large Scale Orchestration of Robotic Agents**, 05 Jan 2024, [oaoer link](https://auto-rt.github.io/static/pdf/AutoRT.pdf) 
+- AutoRT **AutoRT: Embodied Foundation Models for Large Scale Orchestration of Robotic Agents**, 05 Jan 2024, [paoer link](https://auto-rt.github.io/static/pdf/AutoRT.pdf) 
+- PIVOT **PIVOT: Iterative Visual Prompting Elicits Actionable Knowledge for VLMs**, 12 Feb 2024, [paper link](https://arxiv.org/pdf/2402.07872.pdf)
 
 
 ### Action Generation
@@ -65,6 +66,7 @@ NOTE: We only include papers with experiments on real physical robotics, in high
 - VoxPoser **VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models**, 12 Jul 2023, [paper link](https://voxposer.github.io/voxposer.pdf)
 - ReasonedExplorer **Reasoning about the Unseen for Efficient Outdoor Object Navigation**, 18 Sep 2023, [paper link](https://arxiv.org/pdf/2309.10103.pdf)
 - Eureka **Eureka: Human-Level Reward Design via Coding Large Language Models**, 19 Oct 2023, [paper link](https://arxiv.org/pdf/2310.12931.pdf)
+- LMPC **Learning to Learn Faster from Human Feedback with Language Model Predictive Control**, 18 Feb 2024, [paper link](https://arxiv.org/pdf/2402.11450.pdf)
 
 ### Data Generation
 - CACTI **CACTI: A Framework for Scalable Multi-Task Multi-Scene Visual Imitation Learning**, 12 Dec 2022, [paper link](https://arxiv.org/pdf/2212.05711.pdf)
