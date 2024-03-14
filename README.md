@@ -69,6 +69,7 @@ NOTE: We only include papers with experiments on real physical robotics, in high
 - VoxPoser **VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models**, 12 Jul 2023, [paper link](https://voxposer.github.io/voxposer.pdf)
 - ReasonedExplorer **Reasoning about the Unseen for Efficient Outdoor Object Navigation**, 18 Sep 2023, [paper link](https://arxiv.org/pdf/2309.10103.pdf)
 - Eureka **Eureka: Human-Level Reward Design via Coding Large Language Models**, 19 Oct 2023, [paper link](https://arxiv.org/pdf/2310.12931.pdf)
+- **Generative Expressive Robot Behaviors using Large Language Models**, 26 Jan 2024, [paper link](https://arxiv.org/pdf/2401.14673.pdf)
 - LMPC **Learning to Learn Faster from Human Feedback with Language Model Predictive Control**, 18 Feb 2024, [paper link](https://arxiv.org/pdf/2402.11450.pdf)
 
 ### Data Generation
@@ -110,6 +111,7 @@ NOTE: We only include papers with experiments on real physical robotics, in high
 - Q-Transformer **Q-Transformer: Scalable Offline Reinforcement Learning via Autoregressive Q-Functions**, 18 Sept 2023, [paper link](https://arxiv.org/pdf/2309.10150.pdf)
 - **On Bringing Robots Home**, 27 Nov 2023, [paper link](https://arxiv.org/pdf/2311.16098.pdf)
 - Octo **Octo: An Open-Source Generalist Robot Policy**, 14 Dec 2023, [paper link](https://octo-models.github.io/paper.pdf)
+- VQ-BeT **VQ-BeT: Behavior Generation with Latent Actions**, 5 Mar 2024, [paper link](https://arxiv.org/pdf/2403.03181.pdf)
 
 
 ### General-Purpose
