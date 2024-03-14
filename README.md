@@ -31,6 +31,7 @@ NOTE: We only include papers with experiments on real physical robotics, in high
 - MOSAIC **MOSAIC: Learning Unified Multi-Sensory Object Property Representations for Robot Perception**, 15 Sep 2023, [paper link](https://arxiv.org/pdf/2309.08508.pdf)
 - SpatialVLM **SpatialVLM: Endowing Vision-Language Models with Spatial Reasoning Capabilities**, 22 Jan 2024, [paper link](https://arxiv.org/pdf/2401.12168.pdf)
 - OK-Robot **OK-Robot: What Really Matters in Integrating Open-Knowledge Models for Robotics**, 22 Jan 2024, [paper link](https://arxiv.org/pdf/2401.12202.pdf)
+- DNAct **DNAct: Diffusion Guided Multi-Task 3D Policy Learning**, 7 Mar 2024, [paper link](https://arxiv.org/pdf/2403.04115.pdf)
 - GeFF **Learning Generalizable Feature Fields for Mobile Manipulation**, 12 Mar 2024, [paper link](https://arxiv.org/pdf/2403.07563.pdf)
 
 
