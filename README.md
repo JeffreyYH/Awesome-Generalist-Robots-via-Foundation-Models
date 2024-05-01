@@ -76,6 +76,7 @@ NOTE: We only include papers with experiments on real physical robotics, in high
 - CACTI **CACTI: A Framework for Scalable Multi-Task Multi-Scene Visual Imitation Learning**, 12 Dec 2022, [paper link](https://arxiv.org/pdf/2212.05711.pdf)
 - ROSIE **Scaling Robot Learning with Semantically Imagined Experience**, 22 Feb 2023 , [paper link](https://arxiv.org/pdf/2302.11550.pdf)
 - GenSim **GenSim: Generating Robotic Simulation Tasks via Large Language Models**, 2 Oct 2023, [paper link](https://arxiv.org/pdf/2310.01361.pdf)
+- URDFormer **Constructing Interactive Realistic Scenes from Real Images via Simulation and Generative Modeling**, 20 Oct 2023, [paper link](https://openreview.net/pdf?id=bcjpfb6Bh9)
 - RoboGen **RoboGen: Towards Unleashing Infinite Data for Automated Robot Learning via Generative Simulation**, 2 Nov 2023, [paper link](https://arxiv.org/pdf/2311.01455.pdf)
 - RT-Trajectory **RT-Trajectory: Robotic Task Generalization via Hindsight Trajectory Sketches**, 3 Nov 2023, [paper link](https://arxiv.org/pdf/2311.01977.pdf)
 
