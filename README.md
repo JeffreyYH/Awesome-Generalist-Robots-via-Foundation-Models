@@ -82,6 +82,9 @@ NOTE: We only include papers with experiments on real physical robotics, in high
 
 ## Robotic Foundation Models
 
+### Scaling Laws
+- Neural Scaling Laws for Embodied AI **Neural Scaling Laws for Embodied AI**, 22 May 2024 , [paper link](https://arxiv.org/abs/2405.14005)
+
 ### Single-Purpose
 #### Action Generation
 <!-- - **Pre-Trained Language Models for Interactive Decision-Making**, 2022, [paper link](https://arxiv.org/pdf/2202.01771.pdf) -->
