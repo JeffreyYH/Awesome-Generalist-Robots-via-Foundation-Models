@@ -113,7 +113,7 @@ NOTE: We only include papers with experiments on real physical robotics, in high
 - **On Bringing Robots Home**, 27 Nov 2023, [paper link](https://arxiv.org/pdf/2311.16098.pdf)
 - Octo **Octo: An Open-Source Generalist Robot Policy**, 14 Dec 2023, [paper link](https://octo-models.github.io/paper.pdf)
 - VQ-BeT **VQ-BeT: Behavior Generation with Latent Actions**, 5 Mar 2024, [paper link](https://arxiv.org/pdf/2403.03181.pdf)
-- OpenVLA: An Open-Source Vision-Language-Action Model, 13 June 2024, [paper link](https://arxiv.org/pdf/2406.09246)
+- OpenVLA **OpenVLA: An Open-Source Vision-Language-Action Model**, 13 June 2024, [paper link](https://arxiv.org/pdf/2406.09246)
 
 
 ### General-Purpose
