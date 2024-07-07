@@ -1,3 +1,7 @@
+<p align="center">
+<img width="1000" src="./assets/teaser.png"/>
+</p>
+
 # Paper List in the survey paper
 The papers that we are surveying are listed in this file. The papers are grouped by the following categories:
 - [Foundation models used in Robotics](#foundation-models-used-in-robotics). For these papers, the authors apply existing vision and language foundation models, such as LLM, VLM, vision FM and text-conditioned image generation models in modules of robotics, such as perception, decision making and planning, and action.
