@@ -126,6 +126,7 @@ NOTE: We only include papers with experiments on real physical robotics, in high
 - PACT **PACT: Perception-Action Causal Transformer for Autoregressive Robotics Pre-Training**, 22 Sep 2022, [paper link](https://arxiv.org/pdf/2209.11133.pdf)
 - PALM-E **PaLM-E: An Embodied Multimodal Language Model**, 6 Mar 2023, [paper link](https://arxiv.org/pdf/2303.03378.pdf)
 - LEO **An Embodied Generalist Agent in 3D World**, 18 Nov 2023, [paper link](https://arxiv.org/pdf/2311.12871.pdf)
+- CrossFormer **CrossFormer 🦾 Scaling Cross-Embodied Learning for Manipulation, Navigation, Locomotion, and Aviation**, 21 Aug 2024, [paper link](https://arxiv.org/pdf/2408.11812)
 
 
 ## Related Surveys and repositories
