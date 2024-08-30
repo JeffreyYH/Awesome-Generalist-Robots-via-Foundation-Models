@@ -65,6 +65,7 @@ NOTE: We only include papers with experiments on real physical robotics, in high
 - RoboTool **RoboTool: Creative Robot Tool Use with Large Language Models**, 23 Oct 2023, [project link](https://creative-robotool.github.io/)
 - AutoRT **AutoRT: Embodied Foundation Models for Large Scale Orchestration of Robotic Agents**, 05 Jan 2024, [paoer link](https://auto-rt.github.io/static/pdf/AutoRT.pdf) 
 - PIVOT **PIVOT: Iterative Visual Prompting Elicits Actionable Knowledge for VLMs**, 12 Feb 2024, [paper link](https://arxiv.org/pdf/2402.07872.pdf)
+- ReKep **ReKep: Spatio-Temporal Reasoning of Relational Keypoint Constraints for Robotic Manipulation**, 29 Aug, 2024, [paper link](https://rekep-robot.github.io/rekep.pdf)
 
 
 ### Action Generation
