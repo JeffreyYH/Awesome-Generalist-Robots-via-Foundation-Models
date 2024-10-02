@@ -38,6 +38,7 @@ NOTE: We only include papers with experiments on real physical robotics, in high
 - MOKA **MOKA: Open-Vocabulary Robotic Manipulation through Mark-Based Visual Prompting**, 5 Mar 2024, [paper link](https://arxiv.org/pdf/2403.03174.pdf)
 - DNAct **DNAct: Diffusion Guided Multi-Task 3D Policy Learning**, 7 Mar 2024, [paper link](https://arxiv.org/pdf/2403.04115.pdf)
 - GeFF **Learning Generalizable Feature Fields for Mobile Manipulation**, 12 Mar 2024, [paper link](https://arxiv.org/pdf/2403.07563.pdf)
+- Octopi **Octopi: Object Property Reasoning with Large Tactile-Language Models**, 5 Jun 2024, [paper link](https://arxiv.org/pdf/2405.02794)
 
 
 ### Task Planning
