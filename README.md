@@ -123,6 +123,7 @@ NOTE: We only include papers with experiments on real physical robotics, in high
 - VQ-BeT **VQ-BeT: Behavior Generation with Latent Actions**, 5 Mar 2024, [paper link](https://arxiv.org/pdf/2403.03181.pdf)
 - OpenVLA **OpenVLA: An Open-Source Vision-Language-Action Model**, 13 June 2024, [paper link](https://arxiv.org/pdf/2406.09246)
 - LLaRA **LLaRA: Supercharging Robot Learning Data for Vision-Language Policy**, 28 June 2024, [paper link](https://arxiv.org/pdf/2406.20095)
+- ICRT **In-Context Imitation Learning via Next-Token Prediction**, 28 Aug 2024, [paper link](https://arxiv.org/abs/2408.15980)
 
 
 ### General-Purpose
