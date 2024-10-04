@@ -38,6 +38,7 @@ NOTE: We only include papers with experiments on real physical robotics, in high
 - MOKA **MOKA: Open-Vocabulary Robotic Manipulation through Mark-Based Visual Prompting**, 5 Mar 2024, [paper link](https://arxiv.org/pdf/2403.03174.pdf)
 - DNAct **DNAct: Diffusion Guided Multi-Task 3D Policy Learning**, 7 Mar 2024, [paper link](https://arxiv.org/pdf/2403.04115.pdf)
 - GeFF **Learning Generalizable Feature Fields for Mobile Manipulation**, 12 Mar 2024, [paper link](https://arxiv.org/pdf/2403.07563.pdf)
+- Octopi **Octopi: Object Property Reasoning with Large Tactile-Language Models**, 5 Jun 2024, [paper link](https://arxiv.org/pdf/2405.02794)
 
 
 ### Task Planning
@@ -76,6 +77,8 @@ NOTE: We only include papers with experiments on real physical robotics, in high
 - Eureka **Eureka: Human-Level Reward Design via Coding Large Language Models**, 19 Oct 2023, [paper link](https://arxiv.org/pdf/2310.12931.pdf)
 - **Generative Expressive Robot Behaviors using Large Language Models**, 26 Jan 2024, [paper link](https://arxiv.org/pdf/2401.14673.pdf)
 - LMPC **Learning to Learn Faster from Human Feedback with Language Model Predictive Control**, 18 Feb 2024, [paper link](https://arxiv.org/pdf/2402.11450.pdf)
+- Manipulate-Anything **Manipulate-Anything: Automating Real-World Robots using Vision-Language Models**, 29 August 2024, [paper link](https://arxiv.org/pdf/2406.18915)
+
 
 ### Data Generation
 - CACTI **CACTI: A Framework for Scalable Multi-Task Multi-Scene Visual Imitation Learning**, 12 Dec 2022, [paper link](https://arxiv.org/pdf/2212.05711.pdf)
@@ -127,7 +130,10 @@ NOTE: We only include papers with experiments on real physical robotics, in high
 - PACT **PACT: Perception-Action Causal Transformer for Autoregressive Robotics Pre-Training**, 22 Sep 2022, [paper link](https://arxiv.org/pdf/2209.11133.pdf)
 - PALM-E **PaLM-E: An Embodied Multimodal Language Model**, 6 Mar 2023, [paper link](https://arxiv.org/pdf/2303.03378.pdf)
 - LEO **An Embodied Generalist Agent in 3D World**, 18 Nov 2023, [paper link](https://arxiv.org/pdf/2311.12871.pdf)
+- RoboPoint **RoboPoint: A Vision-Language Model for Spatial Affordance Prediction for Robotics**, 21 Jun 2024, [paper link]([https://arxiv.org/pdf/2109.12098.pdf](https://arxiv.org/pdf/2406.10721))
 - CrossFormer **CrossFormer 🦾 Scaling Cross-Embodied Learning for Manipulation, Navigation, Locomotion, and Aviation**, 21 Aug 2024, [paper link](https://arxiv.org/pdf/2408.11812)
+- AHA **AHA: A Vision-Language-Model for Detecting and Reasoning over Failures in Robotic Manipulation**, 1 Oct 2024, [paper link]([https://arxiv.org/pdf/2410.00371))
+
 
 
 ## Related Surveys and repositories
