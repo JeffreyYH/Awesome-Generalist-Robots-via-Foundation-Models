@@ -124,6 +124,8 @@ NOTE: We only include papers with experiments on real physical robotics, in high
 - OpenVLA **OpenVLA: An Open-Source Vision-Language-Action Model**, 13 June 2024, [paper link](https://arxiv.org/pdf/2406.09246)
 - LLaRA **LLaRA: Supercharging Robot Learning Data for Vision-Language Policy**, 28 June 2024, [paper link](https://arxiv.org/pdf/2406.20095)
 - ICRT **In-Context Imitation Learning via Next-Token Prediction**, 28 Aug 2024, [paper link](https://arxiv.org/abs/2408.15980)
+- HOVER **HOVER: Versatile Neural Whole-Body Controller for Humanoid Robots**, 28 Oct 2024, [paper link](https://arxiv.org/pdf/2410.21229)
+- π0 **π0: A Vision-Language-Action Flow Model for General Robot Control**, 31 Oct 2024, [paper link](https://arxiv.org/pdf/2410.24164)
 
 
 ### General-Purpose
