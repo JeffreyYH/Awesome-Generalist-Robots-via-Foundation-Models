@@ -85,9 +85,14 @@ NOTE: We only include papers with experiments on real physical robotics, in high
 - CACTI **CACTI: A Framework for Scalable Multi-Task Multi-Scene Visual Imitation Learning**, 12 Dec 2022, [paper link](https://arxiv.org/pdf/2212.05711.pdf)
 - ROSIE **Scaling Robot Learning with Semantically Imagined Experience**, 22 Feb 2023 , [paper link](https://arxiv.org/pdf/2302.11550.pdf)
 - GenSim **GenSim: Generating Robotic Simulation Tasks via Large Language Models**, 2 Oct 2023, [paper link](https://arxiv.org/pdf/2310.01361.pdf)
+- UniSim **Learning Interactive Real-World Simulators**, 9 Oct 2023, [paper link](https://arxiv.org/pdf/2310.06114)
 - URDFormer **URDFormer: Constructing Interactive Realistic Scenes from Real Images via Simulation and Generative Modeling**, 20 Oct 2023, [paper link](https://openreview.net/pdf?id=bcjpfb6Bh9)
 - RoboGen **RoboGen: Towards Unleashing Infinite Data for Automated Robot Learning via Generative Simulation**, 2 Nov 2023, [paper link](https://arxiv.org/pdf/2311.01455.pdf)
 - RT-Trajectory **RT-Trajectory: Robotic Task Generalization via Hindsight Trajectory Sketches**, 3 Nov 2023, [paper link](https://arxiv.org/pdf/2311.01977.pdf)
+- Gen2Act **Gen2Act: Human Video Generation in Novel Scenarios enables Generalizable Robot Manipulation**, 24 Sep 2024, [paper link](https://arxiv.org/pdf/2409.16283)
+- NWM **Navigation World Models**, 4 Dec 2024, [paper link](https://arxiv.org/pdf/2412.03572)
+- RIGVid **Robotic Manipulation by Imitating Generated Videos Without Physical Demonstrations**, 1 Jul 2025, [paper link](https://arxiv.org/pdf/2507.00990)
+
 
 ## Robotic Foundation Models
 
