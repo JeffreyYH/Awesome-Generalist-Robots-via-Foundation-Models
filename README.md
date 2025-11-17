@@ -4,9 +4,9 @@
 
 # Paper List in the survey paper
 The papers discussed in our survey paper [Toward General-Purpose Robots via Foundation Models: A Survey and Meta-Analysis](https://arxiv.org/pdf/2312.08782) are listed in this file. The papers are grouped by the following categories:
-- [Foundation models used in Robotics](#foundation-models-used-in-robotics). For these papers, the authors apply existing vision and language foundation models, such as LLM, VLM, vision FM and text-conditioned image generation models in modules of robotics, such as perception, decision making and planning, and action.
+- [Foundation models used in Robotics](#foundation-models-used-in-robotics). For these papers, the authors apply existing vision and language foundation models, such as LLM, VLM, vision FM and image and video generation models in modules of robotics, such as perception, action generation, task planning. We also include perspectives such as action grounding, traing data generation, and world modeling in this category.
 
-- [Generalist Robotic Foundation Models](#generalist-robotic-foundation-models). For these papers, the authors propose new foundation models used in one specific robotic applications, such as control using imilation learning and reinforcement learning. We also include genera-purpose foundation models, such as GATO, PALM-E in this category.
+- [Generalist Robotic Foundation Models](#generalist-robotic-foundation-models). For these papers, the authors propose new Robotic Foundation Models (RFM), these models typically are learning either from imitation learning, such as VLA models, or reinforcement learning.
 
 The taxonomy is shown in this figure,
 <p align="center">
