@@ -17,9 +17,9 @@ We list the selected papers surveyed in our [survey paper](https://arxiv.org/abs
 
 NOTE: We only include papers with experiments on real physical robotics, in high-fidelity robotic simulation environments, or using real robotics datasets. 
 
-## Foundation models used in Robotics
-
-### Perception
+## (Vision/Language, Generative) Foundation models used in Robotics
+### FM-Empowered Modules
+#### Perception
 - CLIPORT **CLIPORT: What and Where Pathways for Robotic Manipulation**, 24 Sep 2021, [paper link](https://arxiv.org/pdf/2109.12098.pdf)
 - LM-Nav **LM-Nav: Robotic Navigation with Large Pre-Trained Models of Language, Vision, and Action**, 10 Jul 2022 [paper link](https://arxiv.org/pdf/2207.04429.pdf)
 - NLMap **Open-vocabulary Queryable Scene Representations for Real World Planning**, 20 Sep 2022, [Paper Link](https://arxiv.org/pdf/2209.09874.pdf)
@@ -41,7 +41,7 @@ NOTE: We only include papers with experiments on real physical robotics, in high
 - Octopi **Octopi: Object Property Reasoning with Large Tactile-Language Models**, 5 Jun 2024, [paper link](https://arxiv.org/pdf/2405.02794)
 
 
-### Task Planning
+#### Task Planning
 <!-- - **Language Models as Zero-Shot Planners: Extracting Actionable Knowledge for Embodied Agents**, 2022 [paper link](https://arxiv.org/pdf/2201.07207.pdf) -->
 - **Reshaping Robot Trajectories Using Natural Language Commands: A Study of Multi-Modal Data Alignment Using Transformers**, 25 Mar 2022, [paper link](https://arxiv.org/pdf/2203.13411.pdf)
 - Socratic Models **Socratic Models: Composing Zero-Shot Multimodal Reasoning with Language**, 1 Apr 2022, [paper link](https://arxiv.org/abs/2204.00598)
@@ -70,7 +70,7 @@ NOTE: We only include papers with experiments on real physical robotics, in high
 - ReKep **ReKep: Spatio-Temporal Reasoning of Relational Keypoint Constraints for Robotic Manipulation**, 29 Aug, 2024, [paper link](https://rekep-robot.github.io/rekep.pdf)
 
 
-### Action Generation
+#### Action Generation
 - SayTap **SayTap: Language to Quadrupedal Locomotion**, 13 Jun 2023, [paper link](https://arxiv.org/pdf/2306.07580.pdf)
 - L2R **Language to Rewards for Robotic Skill Synthesis**, 14 Jun 2023 , [Paper Link](https://arxiv.org/pdf/2306.08647.pdf)
 - VoxPoser **VoxPoser: Composable 3D Value Maps for Robotic Manipulation with Language Models**, 12 Jul 2023, [paper link](https://voxposer.github.io/voxposer.pdf)
@@ -81,7 +81,7 @@ NOTE: We only include papers with experiments on real physical robotics, in high
 - Manipulate-Anything **Manipulate-Anything: Automating Real-World Robots using Vision-Language Models**, 29 August 2024, [paper link](https://arxiv.org/pdf/2406.18915)
 
 
-### Data Generation
+### Training Data Generation
 - CACTI **CACTI: A Framework for Scalable Multi-Task Multi-Scene Visual Imitation Learning**, 12 Dec 2022, [paper link](https://arxiv.org/pdf/2212.05711.pdf)
 - ROSIE **Scaling Robot Learning with Semantically Imagined Experience**, 22 Feb 2023 , [paper link](https://arxiv.org/pdf/2302.11550.pdf)
 - GenSim **GenSim: Generating Robotic Simulation Tasks via Large Language Models**, 2 Oct 2023, [paper link](https://arxiv.org/pdf/2310.01361.pdf)
@@ -91,7 +91,7 @@ NOTE: We only include papers with experiments on real physical robotics, in high
 - RT-Trajectory **RT-Trajectory: Robotic Task Generalization via Hindsight Trajectory Sketches**, 3 Nov 2023, [paper link](https://arxiv.org/pdf/2311.01977.pdf)
 
 
-### World Model
+### World Modeling
 - Gen2Act **Gen2Act: Human Video Generation in Novel Scenarios enables Generalizable Robot Manipulation**, 24 Sep 2024, [paper link](https://arxiv.org/pdf/2409.16283)
 - NWM **Navigation World Models**, 4 Dec 2024, [paper link](https://arxiv.org/pdf/2412.03572)
 - RIGVid **Robotic Manipulation by Imitating Generated Videos Without Physical Demonstrations**, 1 Jul 2025, [paper link](https://arxiv.org/pdf/2507.00990)
