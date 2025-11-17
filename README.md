@@ -89,16 +89,22 @@ NOTE: We only include papers with experiments on real physical robotics, in high
 - URDFormer **URDFormer: Constructing Interactive Realistic Scenes from Real Images via Simulation and Generative Modeling**, 20 Oct 2023, [paper link](https://openreview.net/pdf?id=bcjpfb6Bh9)
 - RoboGen **RoboGen: Towards Unleashing Infinite Data for Automated Robot Learning via Generative Simulation**, 2 Nov 2023, [paper link](https://arxiv.org/pdf/2311.01455.pdf)
 - RT-Trajectory **RT-Trajectory: Robotic Task Generalization via Hindsight Trajectory Sketches**, 3 Nov 2023, [paper link](https://arxiv.org/pdf/2311.01977.pdf)
+
+
+### World Model
 - Gen2Act **Gen2Act: Human Video Generation in Novel Scenarios enables Generalizable Robot Manipulation**, 24 Sep 2024, [paper link](https://arxiv.org/pdf/2409.16283)
 - NWM **Navigation World Models**, 4 Dec 2024, [paper link](https://arxiv.org/pdf/2412.03572)
 - RIGVid **Robotic Manipulation by Imitating Generated Videos Without Physical Demonstrations**, 1 Jul 2025, [paper link](https://arxiv.org/pdf/2507.00990)
+- NovaFlow **NovaFlow: Zero-Shot Manipulation via Actionable Flow from Generated Videos**, 9 Oct 2025, [paper link](https://arxiv.org/pdf/2510.08568)
+- PhysWorld **Robot Learning from a Physical World Model**, 10 Nov 2025, [paper link](https://arxiv.org/pdf/2511.07416)
 
 
-## Robotic Foundation Models
 
-### Single-Purpose
-#### Action Generation
+## Generalist Robotic Foundation Models
+### Imitation Learning-based
 <!-- - **Pre-Trained Language Models for Interactive Decision-Making**, 2022, [paper link](https://arxiv.org/pdf/2202.01771.pdf) -->
+- GATO **A Generalist Agent**, 12 May 2022, [paper link](https://arxiv.org/pdf/2205.06175.pdf)
+<!-- - PACT **PACT: Perception-Action Causal Transformer for Autoregressive Robotics Pre-Training**, 22 Sep 2022, [paper link](https://arxiv.org/pdf/2209.11133.pdf) -->
 - ZeST **Can Foundation Models Perform Zero-Shot Task Specification For Robot Manipulation?**, 23 Apr 2022 , [paper link](https://arxiv.org/pdf/2204.11134.pdf)
 - Behavior Transformers **Behavior Transformers: Cloning k modes with one stone**, 22 Jun 2022, [paper link](https://arxiv.org/pdf/2206.11251.pdf)
 - ATLA **Leveraging Language for Accelerated Learning of Tool Manipulation**, 27 Jun 2022, [paper link](https://arxiv.org/pdf/2206.13074.pdf)
@@ -113,6 +119,7 @@ NOTE: We only include papers with experiments on real physical robotics, in high
 - DIAL **Robotic Skill Acquisition via Instruction Augmentation with Vision-Language Models**, 21 Nov 2022 , [paper link](https://arxiv.org/pdf/2211.11736.pdf)
 - RT-1 **RT-1: Robotics Transformer for Real-World Control at Scale**, Dec 2022, [paper link](https://arxiv.org/pdf/2212.06817.pdf)
 - MOO **Open-World Object Manipulation using Pre-Trained Vision-Language Models**, 2 Mar 2023, [paper link](https://arxiv.org/pdf/2303.00905.pdf)
+- PALM-E **PaLM-E: An Embodied Multimodal Language Model**, 6 Mar 2023, [paper link](https://arxiv.org/pdf/2303.03378.pdf)
 - RC-1 **Where are we in the search for an Artificial Visual Cortex for Embodied Intelligence?**, 31 Mar 2023 , [paper link](https://arxiv.org/pdf/2303.18240.pdf)
 - CoTPC **Chain-of-Thought Predictive Control**, 3 Apr 2023 , [paper link](https://arxiv.org/pdf/2304.00776.pdf)
 - ARNOLD **ARNOLD: A Benchmark for Language-Grounded Task Learning With Continuous States in Realistic 3D Scenes**, 9 Apr 2023, [paper link](https://arxiv.org/pdf/2304.04321.pdf)
@@ -123,25 +130,26 @@ NOTE: We only include papers with experiments on real physical robotics, in high
 - RT-2 **RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control**, 28 Jul 2023, [paper link](https://robotics-transformer2.github.io/assets/rt2.pdf)
 - RoboAgent **RoboAgent: Generalization and Efficiency in Robot Manipulation via Semantic Augmentations and Action Chunking**, 5 Sep 2023, [paper link](https://arxiv.org/pdf/2309.01918.pdf)   
 - RT-X **Open X-Embodiment: Robotic Learning Datasets and RT-X Models**, 13 Oct 2023, [paper link](https://robotics-transformer-x.github.io/paper.pdf)
-- Q-Transformer **Q-Transformer: Scalable Offline Reinforcement Learning via Autoregressive Q-Functions**, 18 Sept 2023, [paper link](https://arxiv.org/pdf/2309.10150.pdf)
 - **On Bringing Robots Home**, 27 Nov 2023, [paper link](https://arxiv.org/pdf/2311.16098.pdf)
 - Octo **Octo: An Open-Source Generalist Robot Policy**, 14 Dec 2023, [paper link](https://octo-models.github.io/paper.pdf)
 - VQ-BeT **VQ-BeT: Behavior Generation with Latent Actions**, 5 Mar 2024, [paper link](https://arxiv.org/pdf/2403.03181.pdf)
-- OpenVLA **OpenVLA: An Open-Source Vision-Language-Action Model**, 13 June 2024, [paper link](https://arxiv.org/pdf/2406.09246)
 - LLaRA **LLaRA: Supercharging Robot Learning Data for Vision-Language Policy**, 28 June 2024, [paper link](https://arxiv.org/pdf/2406.20095)
-- ICRT **In-Context Imitation Learning via Next-Token Prediction**, 28 Aug 2024, [paper link](https://arxiv.org/abs/2408.15980)
-
-### General-Purpose
-- GATO **A Generalist Agent**, 12 May 2022, [paper link](https://arxiv.org/pdf/2205.06175.pdf)
-- PACT **PACT: Perception-Action Causal Transformer for Autoregressive Robotics Pre-Training**, 22 Sep 2022, [paper link](https://arxiv.org/pdf/2209.11133.pdf)
-- PALM-E **PaLM-E: An Embodied Multimodal Language Model**, 6 Mar 2023, [paper link](https://arxiv.org/pdf/2303.03378.pdf)
-- LEO **An Embodied Generalist Agent in 3D World**, 18 Nov 2023, [paper link](https://arxiv.org/pdf/2311.12871.pdf)
-- RoboPoint **RoboPoint: A Vision-Language Model for Spatial Affordance Prediction for Robotics**, 21 Jun 2024, [paper link]([https://arxiv.org/pdf/2109.12098.pdf](https://arxiv.org/pdf/2406.10721))
+<!-- - ICRT **In-Context Imitation Learning via Next-Token Prediction**, 28 Aug 2024, [paper link](https://arxiv.org/abs/2408.15980) -->
+<!-- - LEO **An Embodied Generalist Agent in 3D World**, 18 Nov 2023, [paper link](https://arxiv.org/pdf/2311.12871.pdf) -->
+- OpenVLA **OpenVLA: An Open-Source Vision-Language-Action Model**, 13 June 2024, [paper link](https://arxiv.org/pdf/2406.09246)
+<!-- - RoboPoint **RoboPoint: A Vision-Language Model for Spatial Affordance Prediction for Robotics**, 21 Jun 2024, [paper link]([https://arxiv.org/pdf/2109.12098.pdf](https://arxiv.org/pdf/2406.10721)) -->
 - CrossFormer **CrossFormer 🦾 Scaling Cross-Embodied Learning for Manipulation, Navigation, Locomotion, and Aviation**, 21 Aug 2024, [paper link](https://arxiv.org/pdf/2408.11812)
-- AHA **AHA: A Vision-Language-Model for Detecting and Reasoning over Failures in Robotic Manipulation**, 1 Oct 2024, [paper link]([https://arxiv.org/pdf/2410.00371))
-- HOVER **HOVER: Versatile Neural Whole-Body Controller for Humanoid Robots**, 28 Oct 2024, [paper link](https://arxiv.org/pdf/2410.21229)
+<!-- - AHA **AHA: A Vision-Language-Model for Detecting and Reasoning over Failures in Robotic Manipulation**, 1 Oct 2024, [paper link]([https://arxiv.org/pdf/2410.00371)) -->
 - π0 **π0: A Vision-Language-Action Flow Model for General Robot Control**, 31 Oct 2024, [paper link](https://arxiv.org/pdf/2410.24164)
+- π_0.5 **π_{0.5}: a Vision-Language-Action Model with Open-World Generalization**, 22 April 2025, [paper link](https://arxiv.org/pdf/2504.16054)
+- SmolVLA **SmolVLA: A Vision-Language-Action Model for Affordable and Efficient Robotics**, 6 Jun 2025, [paper link](https://arxiv.org/pdf/2506.01844)
+- LBM **A Careful Examination of Large Behavior Models for Multitask Dexterous Manipulation**, 7 Jul 2025, [paper link](https://arxiv.org/pdf/2507.05331)
+- GEN-0 **GEN-0: Embodied Foundation Models That Scale with Physical Interaction**, 4 Nov 2025, [report link](https://generalistai.com/blog/nov-04-2025-GEN-0)
 
+### Reinforcement Learning-based
+- Q-Transformer **Q-Transformer: Scalable Offline Reinforcement Learning via Autoregressive Q-Functions**, 18 Sept 2023, [paper link](https://arxiv.org/pdf/2309.10150.pdf)
+- HOVER **HOVER: Versatile Neural Whole-Body Controller for Humanoid Robots**, 28 Oct 2024, [paper link](https://arxiv.org/pdf/2410.21229)
+- BFM-Zero **BFM-Zero: A Promptable Behavioral Foundation Model for Humanoid Control Using Unsupervised Reinforcement Learning**, 6 Nov 2025 , [paper link](https://arxiv.org/pdf/2511.04131)
 
 
 ## Related Surveys and repositories
