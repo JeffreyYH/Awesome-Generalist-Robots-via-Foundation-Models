@@ -3,17 +3,17 @@
 </p>
 
 # Paper List in the survey paper
-The papers that we are surveying are listed in this file. The papers are grouped by the following categories:
+The papers discussed in our survey paper [Toward General-Purpose Robots via Foundation Models: A Survey and Meta-Analysis](https://arxiv.org/pdf/2312.08782) are listed in this file. The papers are grouped by the following categories:
 - [Foundation models used in Robotics](#foundation-models-used-in-robotics). For these papers, the authors apply existing vision and language foundation models, such as LLM, VLM, vision FM and text-conditioned image generation models in modules of robotics, such as perception, decision making and planning, and action.
 
-- [Robotic Foundation Models](#robotic-foundation-models). For these papers, the authors propose new foundation models used in one specific robotic applications, such as control using imilation learning and reinforcement learning. We also include genera-purpose foundation models, such as GATO, PALM-E in this category.
+- [Generalist Robotic Foundation Models](#generalist-robotic-foundation-models). For these papers, the authors propose new foundation models used in one specific robotic applications, such as control using imilation learning and reinforcement learning. We also include genera-purpose foundation models, such as GATO, PALM-E in this category.
 
 The taxonomy is shown in this figure,
 <p align="center">
 <img width="1000" src="./assets/taxonomy.png"/>
 </p>
 
-We list all the papers surveyed in our [paper](https://arxiv.org/abs/2312.08782). The dates are based on the first released date on arxiv. This list will be constantly updated.
+We list the selected papers surveyed in our [survey paper](https://arxiv.org/abs/2312.08782). The dates are based on the first released date on arxiv. This list will be constantly updated.
 
 NOTE: We only include papers with experiments on real physical robotics, in high-fidelity robotic simulation environments, or using real robotics datasets. 
 
