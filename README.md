@@ -17,6 +17,75 @@ We list the selected papers surveyed in our [survey paper](https://arxiv.org/abs
 
 NOTE: We only include papers with experiments on real physical robotics, in high-fidelity robotic simulation environments, or using real robotics datasets. 
 
+## Generalist Robotic Foundation Models
+
+### VAL Models
+- RT-2 **RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control**, 28 Jul 2023, [paper link](https://robotics-transformer2.github.io/assets/rt2.pdf)
+- Octo **Octo: An Open-Source Generalist Robot Policy**, 14 Dec 2023, [paper link](https://octo-models.github.io/paper.pdf)
+- OpenVLA **OpenVLA: An Open-Source Vision-Language-Action Model**, 13 June 2024, [paper link](https://arxiv.org/pdf/2406.09246)
+- π0 **π0: A Vision-Language-Action Flow Model for General Robot Control**, 31 Oct 2024, [paper link](https://arxiv.org/pdf/2410.24164)
+- π_0.5 **π_{0.5}: a Vision-Language-Action Model with Open-World Generalization**, 22 April 2025, [paper link](https://arxiv.org/pdf/2504.16054)
+- SmolVLA **SmolVLA: A Vision-Language-Action Model for Affordable and Efficient Robotics**, 6 Jun 2025, [paper link](https://arxiv.org/pdf/2506.01844)
+- LBM **A Careful Examination of Large Behavior Models for Multitask Dexterous Manipulation**, 7 Jul 2025, [paper link](https://arxiv.org/pdf/2507.05331)
+- GEN-0 **GEN-0: Embodied Foundation Models That Scale with Physical Interaction**, 4 Nov 2025, [report link](https://generalistai.com/blog/nov-04-2025-GEN-0)
+- GEN-1 **GEN-1: Scaling Embodied Foundation Models to Mastery**, April 2, 2026, [report link](https://generalistai.com/blog/gen-1)
+
+
+### World Action Models (WAM)
+- Cosmos Policy **Cosmos Policy: Fine-Tuning Video Models for Visuomotor Control and Planning**, 22 Jan 2026, [paper link](https://arxiv.org/pdf/2601.16163)
+- DreamZero **World Action Models are Zero-shot Policies**, 17 Feb 2026, [paper link](https://arxiv.org/pdf/2602.15922)
+- Fast-WAM **Fast-WAM: Do World Action Models Need Test-time Future Imagination?**, 17 Mar 2026, [paper link](https://arxiv.org/pdf/2603.16666)
+
+
+### Memory in Robot Foundation Models
+- MEM **MEM: Multi-Scale Embodied Memory for Vision Language Action Models**, 4 Mar 2026, [paper link](https://arxiv.org/pdf/2603.03596)
+
+
+### Earlier Models:
+#### Imitation Learning-based
+<!-- - **Pre-Trained Language Models for Interactive Decision-Making**, 2022, [paper link](https://arxiv.org/pdf/2202.01771.pdf) -->
+- GATO **A Generalist Agent**, 12 May 2022, [paper link](https://arxiv.org/pdf/2205.06175.pdf)
+<!-- - PACT **PACT: Perception-Action Causal Transformer for Autoregressive Robotics Pre-Training**, 22 Sep 2022, [paper link](https://arxiv.org/pdf/2209.11133.pdf) -->
+- ZeST **Can Foundation Models Perform Zero-Shot Task Specification For Robot Manipulation?**, 23 Apr 2022 , [paper link](https://arxiv.org/pdf/2204.11134.pdf)
+- Behavior Transformers **Behavior Transformers: Cloning k modes with one stone**, 22 Jun 2022, [paper link](https://arxiv.org/pdf/2206.11251.pdf)
+- ATLA **Leveraging Language for Accelerated Learning of Tool Manipulation**, 27 Jun 2022, [paper link](https://arxiv.org/pdf/2206.13074.pdf)
+- LATTE **LATTE: LAnguage Trajectory TransformEr**, 4 Aug 2022, [paper link](https://arxiv.org/pdf/2208.02918.pdf)
+- Perceiver-Actor **Perceiver-Actor: A Multi-Task Transformer for Robotic Manipulation**, 12 Sep 2022, [paper link](https://arxiv.org/pdf/2209.05451.pdf)
+- MVP **Real-World Robot Learning with Masked Visual Pre-training**, 6 Oct 2022, [paper link](https://arxiv.org/pdf/2210.03109.pdf)
+- GNM **GNM: A General Navigation Model to Drive Any Robot**, 7 Oct 2022 , [Paper Link](https://arxiv.org/pdf/2210.03370.pdf)
+- Interactive Language **Interactive Language: Talking to Robots in Real Time**, 12 Oct 2022 , [paper link](https://arxiv.org/pdf/2210.06407.pdf)
+- Conditional Behavior Transformers (C-BeT)**From Play to Policy: Conditional Behavior Generation from Uncurated Robot Data**, 18 Oct 2022, [paper link](https://arxiv.org/pdf/2210.10047.pdf)
+- STAP **STAP: Sequencing Task-Agnostic Policies**, 21 Oct 2022, [paper link](https://arxiv.org/abs/2210.12250)
+- LILA **LILA: Language-Informed Latent Actions**, 31 Oct 2022, [paper link](https://arxiv.org/pdf/2111.03205.pdf)
+- DIAL **Robotic Skill Acquisition via Instruction Augmentation with Vision-Language Models**, 21 Nov 2022 , [paper link](https://arxiv.org/pdf/2211.11736.pdf)
+- RT-1 **RT-1: Robotics Transformer for Real-World Control at Scale**, Dec 2022, [paper link](https://arxiv.org/pdf/2212.06817.pdf)
+- MOO **Open-World Object Manipulation using Pre-Trained Vision-Language Models**, 2 Mar 2023, [paper link](https://arxiv.org/pdf/2303.00905.pdf)
+- PALM-E **PaLM-E: An Embodied Multimodal Language Model**, 6 Mar 2023, [paper link](https://arxiv.org/pdf/2303.03378.pdf)
+- RC-1 **Where are we in the search for an Artificial Visual Cortex for Embodied Intelligence?**, 31 Mar 2023 , [paper link](https://arxiv.org/pdf/2303.18240.pdf)
+- CoTPC **Chain-of-Thought Predictive Control**, 3 Apr 2023 , [paper link](https://arxiv.org/pdf/2304.00776.pdf)
+- ARNOLD **ARNOLD: A Benchmark for Language-Grounded Task Learning With Continuous States in Realistic 3D Scenes**, 9 Apr 2023, [paper link](https://arxiv.org/pdf/2304.04321.pdf)
+- Optimus **Imitating Task and Motion Planning with Visuomotor Transformers**, 25 May 2023, [paper link](https://arxiv.org/pdf/2305.16309v1.pdf)
+- RoboCat **RoboCat: A self-improving robotic agent**, 20 Jun 2023, [paper link](https://arxiv.org/pdf/2306.11706.pdf)
+- Scaling Up and Distilling Down **Scaling Up and Distilling Down: Language-Guided Robot Skill Acquisition**, 26 Jul 2023, [paper link](https://arxiv.org/pdf/2307.14535.pdf)
+- ViNT **ViNT: A Foundation Model for Visual Navigation**,  26 Jun 2023, [Paper Link](https://arxiv.org/pdf/2306.14846.pdf)
+- **On Bringing Robots Home**, 27 Nov 2023, [paper link](https://arxiv.org/pdf/2311.16098.pdf)
+- VQ-BeT **VQ-BeT: Behavior Generation with Latent Actions**, 5 Mar 2024, [paper link](https://arxiv.org/pdf/2403.03181.pdf)
+- CrossFormer **CrossFormer 🦾 Scaling Cross-Embodied Learning for Manipulation, Navigation, Locomotion, and Aviation**, 21 Aug 2024, [paper link](https://arxiv.org/pdf/2408.11812)
+<!-- - RoboPoint **RoboPoint: A Vision-Language Model for Spatial Affordance Prediction for Robotics**, 21 Jun 2024, [paper link]([https://arxiv.org/pdf/2109.12098.pdf](https://arxiv.org/pdf/2406.10721)) -->
+<!-- - AHA **AHA: A Vision-Language-Model for Detecting and Reasoning over Failures in Robotic Manipulation**, 1 Oct 2024, [paper link]([https://arxiv.org/pdf/2410.00371)) -->
+<!-- - LLaRA **LLaRA: Supercharging Robot Learning Data for Vision-Language Policy**, 28 June 2024, [paper link](https://arxiv.org/pdf/2406.20095) -->
+<!-- - ICRT **In-Context Imitation Learning via Next-Token Prediction**, 28 Aug 2024, [paper link](https://arxiv.org/abs/2408.15980) -->
+<!-- - LEO **An Embodied Generalist Agent in 3D World**, 18 Nov 2023, [paper link](https://arxiv.org/pdf/2311.12871.pdf) -->
+<!-- - RoboAgent **RoboAgent: Generalization and Efficiency in Robot Manipulation via Semantic Augmentations and Action Chunking**, 5 Sep 2023, [paper link](https://arxiv.org/pdf/2309.01918.pdf)    -->
+<!-- - RT-X **Open X-Embodiment: Robotic Learning Datasets and RT-X Models**, 13 Oct 2023, [paper link](https://robotics-transformer-x.github.io/paper.pdf) -->
+  
+
+#### Reinforcement Learning-based
+- Q-Transformer **Q-Transformer: Scalable Offline Reinforcement Learning via Autoregressive Q-Functions**, 18 Sept 2023, [paper link](https://arxiv.org/pdf/2309.10150.pdf)
+- HOVER **HOVER: Versatile Neural Whole-Body Controller for Humanoid Robots**, 28 Oct 2024, [paper link](https://arxiv.org/pdf/2410.21229)
+- BFM-Zero **BFM-Zero: A Promptable Behavioral Foundation Model for Humanoid Control Using Unsupervised Reinforcement Learning**, 6 Nov 2025 , [paper link](https://arxiv.org/pdf/2511.04131)
+
+
 ## (Vision/Language, Generative) Foundation models used in Robotics
 ### FM-Empowered Modules
 #### Perception
@@ -97,60 +166,7 @@ NOTE: We only include papers with experiments on real physical robotics, in high
 - RIGVid **Robotic Manipulation by Imitating Generated Videos Without Physical Demonstrations**, 1 Jul 2025, [paper link](https://arxiv.org/pdf/2507.00990)
 - NovaFlow **NovaFlow: Zero-Shot Manipulation via Actionable Flow from Generated Videos**, 9 Oct 2025, [paper link](https://arxiv.org/pdf/2510.08568)
 - PhysWorld **Robot Learning from a Physical World Model**, 10 Nov 2025, [paper link](https://arxiv.org/pdf/2511.07416)
-
-
-
-## Generalist Robotic Foundation Models
-### Imitation Learning-based
-<!-- - **Pre-Trained Language Models for Interactive Decision-Making**, 2022, [paper link](https://arxiv.org/pdf/2202.01771.pdf) -->
-- GATO **A Generalist Agent**, 12 May 2022, [paper link](https://arxiv.org/pdf/2205.06175.pdf)
-<!-- - PACT **PACT: Perception-Action Causal Transformer for Autoregressive Robotics Pre-Training**, 22 Sep 2022, [paper link](https://arxiv.org/pdf/2209.11133.pdf) -->
-- ZeST **Can Foundation Models Perform Zero-Shot Task Specification For Robot Manipulation?**, 23 Apr 2022 , [paper link](https://arxiv.org/pdf/2204.11134.pdf)
-- Behavior Transformers **Behavior Transformers: Cloning k modes with one stone**, 22 Jun 2022, [paper link](https://arxiv.org/pdf/2206.11251.pdf)
-- ATLA **Leveraging Language for Accelerated Learning of Tool Manipulation**, 27 Jun 2022, [paper link](https://arxiv.org/pdf/2206.13074.pdf)
-- LATTE **LATTE: LAnguage Trajectory TransformEr**, 4 Aug 2022, [paper link](https://arxiv.org/pdf/2208.02918.pdf)
-- Perceiver-Actor **Perceiver-Actor: A Multi-Task Transformer for Robotic Manipulation**, 12 Sep 2022, [paper link](https://arxiv.org/pdf/2209.05451.pdf)
-- MVP **Real-World Robot Learning with Masked Visual Pre-training**, 6 Oct 2022, [paper link](https://arxiv.org/pdf/2210.03109.pdf)
-- GNM **GNM: A General Navigation Model to Drive Any Robot**, 7 Oct 2022 , [Paper Link](https://arxiv.org/pdf/2210.03370.pdf)
-- Interactive Language **Interactive Language: Talking to Robots in Real Time**, 12 Oct 2022 , [paper link](https://arxiv.org/pdf/2210.06407.pdf)
-- Conditional Behavior Transformers (C-BeT)**From Play to Policy: Conditional Behavior Generation from Uncurated Robot Data**, 18 Oct 2022, [paper link](https://arxiv.org/pdf/2210.10047.pdf)
-- STAP **STAP: Sequencing Task-Agnostic Policies**, 21 Oct 2022, [paper link](https://arxiv.org/abs/2210.12250)
-- LILA **LILA: Language-Informed Latent Actions**, 31 Oct 2022, [paper link](https://arxiv.org/pdf/2111.03205.pdf)
-- DIAL **Robotic Skill Acquisition via Instruction Augmentation with Vision-Language Models**, 21 Nov 2022 , [paper link](https://arxiv.org/pdf/2211.11736.pdf)
-- RT-1 **RT-1: Robotics Transformer for Real-World Control at Scale**, Dec 2022, [paper link](https://arxiv.org/pdf/2212.06817.pdf)
-- MOO **Open-World Object Manipulation using Pre-Trained Vision-Language Models**, 2 Mar 2023, [paper link](https://arxiv.org/pdf/2303.00905.pdf)
-- PALM-E **PaLM-E: An Embodied Multimodal Language Model**, 6 Mar 2023, [paper link](https://arxiv.org/pdf/2303.03378.pdf)
-- RC-1 **Where are we in the search for an Artificial Visual Cortex for Embodied Intelligence?**, 31 Mar 2023 , [paper link](https://arxiv.org/pdf/2303.18240.pdf)
-- CoTPC **Chain-of-Thought Predictive Control**, 3 Apr 2023 , [paper link](https://arxiv.org/pdf/2304.00776.pdf)
-- ARNOLD **ARNOLD: A Benchmark for Language-Grounded Task Learning With Continuous States in Realistic 3D Scenes**, 9 Apr 2023, [paper link](https://arxiv.org/pdf/2304.04321.pdf)
-- Optimus **Imitating Task and Motion Planning with Visuomotor Transformers**, 25 May 2023, [paper link](https://arxiv.org/pdf/2305.16309v1.pdf)
-- RoboCat **RoboCat: A self-improving robotic agent**, 20 Jun 2023, [paper link](https://arxiv.org/pdf/2306.11706.pdf)
-- Scaling Up and Distilling Down **Scaling Up and Distilling Down: Language-Guided Robot Skill Acquisition**, 26 Jul 2023, [paper link](https://arxiv.org/pdf/2307.14535.pdf)
-- ViNT **ViNT: A Foundation Model for Visual Navigation**,  26 Jun 2023, [Paper Link](https://arxiv.org/pdf/2306.14846.pdf)
-- RT-2 **RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control**, 28 Jul 2023, [paper link](https://robotics-transformer2.github.io/assets/rt2.pdf)
-- RoboAgent **RoboAgent: Generalization and Efficiency in Robot Manipulation via Semantic Augmentations and Action Chunking**, 5 Sep 2023, [paper link](https://arxiv.org/pdf/2309.01918.pdf)   
-- RT-X **Open X-Embodiment: Robotic Learning Datasets and RT-X Models**, 13 Oct 2023, [paper link](https://robotics-transformer-x.github.io/paper.pdf)
-- **On Bringing Robots Home**, 27 Nov 2023, [paper link](https://arxiv.org/pdf/2311.16098.pdf)
-- Octo **Octo: An Open-Source Generalist Robot Policy**, 14 Dec 2023, [paper link](https://octo-models.github.io/paper.pdf)
-- VQ-BeT **VQ-BeT: Behavior Generation with Latent Actions**, 5 Mar 2024, [paper link](https://arxiv.org/pdf/2403.03181.pdf)
-- LLaRA **LLaRA: Supercharging Robot Learning Data for Vision-Language Policy**, 28 June 2024, [paper link](https://arxiv.org/pdf/2406.20095)
-<!-- - ICRT **In-Context Imitation Learning via Next-Token Prediction**, 28 Aug 2024, [paper link](https://arxiv.org/abs/2408.15980) -->
-<!-- - LEO **An Embodied Generalist Agent in 3D World**, 18 Nov 2023, [paper link](https://arxiv.org/pdf/2311.12871.pdf) -->
-- OpenVLA **OpenVLA: An Open-Source Vision-Language-Action Model**, 13 June 2024, [paper link](https://arxiv.org/pdf/2406.09246)
-<!-- - RoboPoint **RoboPoint: A Vision-Language Model for Spatial Affordance Prediction for Robotics**, 21 Jun 2024, [paper link]([https://arxiv.org/pdf/2109.12098.pdf](https://arxiv.org/pdf/2406.10721)) -->
-- CrossFormer **CrossFormer 🦾 Scaling Cross-Embodied Learning for Manipulation, Navigation, Locomotion, and Aviation**, 21 Aug 2024, [paper link](https://arxiv.org/pdf/2408.11812)
-<!-- - AHA **AHA: A Vision-Language-Model for Detecting and Reasoning over Failures in Robotic Manipulation**, 1 Oct 2024, [paper link]([https://arxiv.org/pdf/2410.00371)) -->
-- π0 **π0: A Vision-Language-Action Flow Model for General Robot Control**, 31 Oct 2024, [paper link](https://arxiv.org/pdf/2410.24164)
-- π_0.5 **π_{0.5}: a Vision-Language-Action Model with Open-World Generalization**, 22 April 2025, [paper link](https://arxiv.org/pdf/2504.16054)
-- SmolVLA **SmolVLA: A Vision-Language-Action Model for Affordable and Efficient Robotics**, 6 Jun 2025, [paper link](https://arxiv.org/pdf/2506.01844)
-- LBM **A Careful Examination of Large Behavior Models for Multitask Dexterous Manipulation**, 7 Jul 2025, [paper link](https://arxiv.org/pdf/2507.05331)
-- GEN-0 **GEN-0: Embodied Foundation Models That Scale with Physical Interaction**, 4 Nov 2025, [report link](https://generalistai.com/blog/nov-04-2025-GEN-0)
-
-### Reinforcement Learning-based
-- Q-Transformer **Q-Transformer: Scalable Offline Reinforcement Learning via Autoregressive Q-Functions**, 18 Sept 2023, [paper link](https://arxiv.org/pdf/2309.10150.pdf)
-- HOVER **HOVER: Versatile Neural Whole-Body Controller for Humanoid Robots**, 28 Oct 2024, [paper link](https://arxiv.org/pdf/2410.21229)
-- BFM-Zero **BFM-Zero: A Promptable Behavioral Foundation Model for Humanoid Control Using Unsupervised Reinforcement Learning**, 6 Nov 2025 , [paper link](https://arxiv.org/pdf/2511.04131)
-
+  
 
 ## Related Surveys and repositories
 ### Robotics surveys
