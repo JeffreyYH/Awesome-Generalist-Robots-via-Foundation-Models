@@ -19,7 +19,7 @@ NOTE: We only include papers with experiments on real physical robotics, in high
 
 ## Generalist Robotic Foundation Models
 
-### VAL Models
+### Vision-Language-Action (VLA) Models
 - RT-2 **RT-2: Vision-Language-Action Models Transfer Web Knowledge to Robotic Control**, 28 Jul 2023, [paper link](https://robotics-transformer2.github.io/assets/rt2.pdf)
 - Octo **Octo: An Open-Source Generalist Robot Policy**, 14 Dec 2023, [paper link](https://octo-models.github.io/paper.pdf)
 - OpenVLA **OpenVLA: An Open-Source Vision-Language-Action Model**, 13 June 2024, [paper link](https://arxiv.org/pdf/2406.09246)
